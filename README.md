@@ -15,18 +15,37 @@
 
 ---
 
+<!-- Quick Facts Section -->
+## ⚡ Quick Facts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☕-Coffee%20Lover-6F4E37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌙-Night%20Coder-191970?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎮-Gamer-00FF41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎧-Lo--Fi%20Beats-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🐧-Linux%20Fan-FCC624?style=for-the-badge"/>
+</p>
+
+---
+
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
 
-```javascript
-const oliver = {
-    location: "Perú 🇵🇪",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    focus: "Building scalable cloud-native apps",
-    funFact: "I debug with console.log 😄"
-};
+```bash
+$ whoami
+> oliver_chuctaya
+
+$ cat about.txt
+┌──────────────────────────────────────┐
+│  🇵🇪 Location: Perú                  │
+│  💼 Role: Full Stack Developer       │
+│  🎯 Focus: Cloud-Native Apps         │
+│  ⚡ Fun: console.log("debugging") 😄 │
+└──────────────────────────────────────┘
+
+$ skills --list
+["JavaScript", "TypeScript", "Python", "Java", "React", "Node.js", "AWS", "Docker"]
 ```
 
 - 🔭 Desarrollo soluciones **Full Stack** de alto rendimiento
@@ -41,7 +60,7 @@ const oliver = {
 
 ---
 
-## 🏆 Certificaciones
+## 🏆 Achievements & Certifications
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70" alt="AWS"/>
@@ -49,10 +68,22 @@ const oliver = {
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70" alt="VS Code"/>
 </p>
 
+<!-- Achievement Badges - Gaming Style -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-Fundamentals-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Experience-+3%20Years-00FF41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎖️_ACHIEVEMENT-AWS%20Certified-FF9900?style=for-the-badge&labelColor=232F3E"/>
+  <img src="https://img.shields.io/badge/🏅_UNLOCKED-Scrum%20Master-009FDA?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/⭐_LEVEL_UP-+3%20Years%20XP-00FF41?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_STREAK-Code%20Warrior-FF4500?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💎_RARE-Open%20Source%20Contributor-9400D3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🚀_EPIC-Cloud%20Architect-00CED1?style=flat-square"/>
+</p>
+
+<!-- Astronaut GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="300"/>
 </p>
 
 ---
@@ -65,7 +96,6 @@ const oliver = {
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" alt="Python"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70" alt="Java"/>
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="70" alt="React"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" alt="GitHub"/>
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70" alt="Git"/>
 </p>
 
@@ -108,6 +138,11 @@ const oliver = {
 </tr>
 </table>
 
+<!-- Robot GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbade9-dcdd-4a0b-b3f0-f0e7b1b8e6a0.gif" width="350"/>
+</p>
+
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -119,6 +154,11 @@ const oliver = {
   <img src="https://github-profile-trophy.vercel.app/?username=OliverAven01&theme=matrix&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
 </p>
 
+<!-- Streak Counter Visual -->
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=OliverAven01&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Contribution%20Graph&theme=github-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=FFFFFF" width="95%"/>
 </p>
@@ -127,15 +167,23 @@ const oliver = {
 
 ## 🎮 Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
-</p>
+<!-- Snake Animation - Dark/Light Mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/github-snake-dark.svg"/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" width="100%">
 </picture>
+
+<!-- Matrix Code Rain -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+</p>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -144,20 +192,41 @@ const oliver = {
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/oliverchuctaya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/51963072856" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="mailto:oliveraven05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://oliveraven01.biox.com.pe/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+
+<!-- Profile Photo with QR -->
+<img src="./oliver.png" width="150" style="border-radius: 50%; border: 3px solid #00FF41;"/>
+
+**Oliver Chuctaya**
+
+[![Portfolio QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://oliveraven01.biox.com.pe/&bgcolor=0d1117&color=00FF41)](https://oliveraven01.biox.com.pe/)
+
+*Scan to visit my portfolio*
+
+</td>
+<td align="center">
+
+<a href="https://linkedin.com/in/oliverchuctaya" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://wa.me/51963072856" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<a href="mailto:oliveraven05@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://oliveraven01.biox.com.pe/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <!-- Animated Social Icons -->
 <p align="center">
@@ -196,5 +265,5 @@ const oliver = {
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300"/>
 </p>
