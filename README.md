@@ -184,11 +184,17 @@ const oliver = {
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d4f21,100:00FF41&height=100&section=footer"/>
 
+<h3 align="center">✨ Thanks for visiting! ✨</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing!" alt="Footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Let's+build+something+amazing+together!;Open+to+new+opportunities+%F0%9F%9A%80" alt="Footer Typing"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-💚-00FF41?style=flat-square"/>
   <img src="https://img.shields.io/badge/From-Perú%20🇵🇪-D91023?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
 </p>
