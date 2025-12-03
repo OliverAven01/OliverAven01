@@ -161,11 +161,13 @@ const oliver = {
 
 ---
 
-## 🎵 Coding Vibes
+## � CPacman Contributions
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r3l3qrxqkey5xrxhwdxlgpk7ry&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/pacman-contribution-graph-dark.svg"/>
+</picture>
 
 ---
 
