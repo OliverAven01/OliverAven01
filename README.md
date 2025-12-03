@@ -95,7 +95,7 @@ $ skills --list
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" alt="JavaScript"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" alt="Python"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70" alt="Java"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="70" alt="React"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" alt="GitHub"/>
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70" alt="Git"/>
 </p>
 
@@ -112,7 +112,7 @@ $ skills --list
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,html,css,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,sass&theme=dark"/>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,laravel,python,java&theme=dark"/>
@@ -130,10 +130,10 @@ $ skills --list
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark"/>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,github,gitlab&theme=dark"/>
 </td>
 </tr>
 </table>
@@ -220,10 +220,7 @@ $ skills --list
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 </p>
 
-<!-- Animated Coding GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="Coding"/>
-</p>
+
 
 ---
 
