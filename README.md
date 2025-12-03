@@ -167,23 +167,17 @@ $ skills --list
 
 ## 🎮 Contributions
 
-<!-- Snake Animation - Dark/Light Mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/github-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/github-snake-dark.svg"/>
-</picture>
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+</p>
 
+<!-- Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" width="100%">
 </picture>
-
-<!-- Matrix Code Rain -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-</p>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -192,48 +186,31 @@ $ skills --list
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> Connect with Me
 
-<table align="center">
-<tr>
-<td align="center">
-
-<!-- Profile Photo with QR -->
-<img src="./oliver.png" width="150" style="border-radius: 50%; border: 3px solid #00FF41;"/>
-
-**Oliver Chuctaya**
-
-[![Portfolio QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://oliveraven01.biox.com.pe/&bgcolor=0d1117&color=00FF41)](https://oliveraven01.biox.com.pe/)
-
-*Scan to visit my portfolio*
-
-</td>
-<td align="center">
-
-<a href="https://linkedin.com/in/oliverchuctaya" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://wa.me/51963072856" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-
-<a href="mailto:oliveraven05@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://oliveraven01.biox.com.pe/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<!-- Animated Social Icons -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" alt="LinkedIn"/>
-  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" alt="WhatsApp"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" alt="Email"/>
+  <img src="./oliver.png" width="120" alt="Oliver"/>
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/oliverchuctaya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/51963072856" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:oliveraven05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://oliveraven01.biox.com.pe/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://oliveraven01.biox.com.pe/" target="_blank">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://oliveraven01.biox.com.pe/&bgcolor=0d1117&color=00FF41" alt="Portfolio QR"/>
+  </a>
+</p>
+<p align="center"><i>📱 Scan to visit my portfolio</i></p>
 
 ---
 
@@ -262,8 +239,4 @@ $ skills --list
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-💚-00FF41?style=flat-square"/>
   <img src="https://img.shields.io/badge/From-Perú%20🇵🇪-D91023?style=flat-square"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300"/>
 </p>
