@@ -237,3 +237,7 @@ $ skills --list
   <img src="https://img.shields.io/badge/Made%20with-💚-00FF41?style=flat-square"/>
   <img src="https://img.shields.io/badge/From-Perú%20🇵🇪-D91023?style=flat-square"/>
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Mario Coding"/>
+</p>
