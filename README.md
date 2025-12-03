@@ -214,14 +214,14 @@ $ skills --list
 
 ---
 
-## 💭 Random Dev Quote
+## � Growth Meindset
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%22El+%C3%A9xito+no+es+el+final%2C+el+fracaso+no+es+fatal%22;%22Lo+que+cuenta+es+el+coraje+de+continuar%22+💪;%22Cada+l%C3%ADnea+de+c%C3%B3digo+es+un+paso+hacia+adelante%22+🚀" alt="Motivational Quote"/>
 </p>
 
 ---
