@@ -1,27 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00d4ff,50:7c3aed,100:f472b6&text=Oliver%20Chuctaya%20Avendaño&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Software%20Engineer%20|%20Cloud%20Enthusiast&descSize=20&descAlignY=55&stroke=00d4ff&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:003300,100:00FF41&text=Oliver%20Chuctaya%20Avendaño&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Software%20Engineer%20|%20Cloud%20Enthusiast&descSize=20&descAlignY=55&descColor=39FF14&stroke=00FF41&strokeWidth=3"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💻+Passionate+about+building+amazing+software;🌟+Transforming+ideas+into+digital+reality;⚡+Clean+Code+%7C+Best+Practices+%7C+Innovation;🔥+Let's+create+something+extraordinary!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💻+Passionate+about+building+amazing+software;🌟+Transforming+ideas+into+digital+reality;⚡+Clean+Code+%7C+Best+Practices+%7C+Innovation;🔥+Let's+create+something+extraordinary!" alt="Typing SVG" />
 </p>
 
-<!-- Animated Matrix Effect -->
+<!-- Matrix Rain GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=OliverAven01">
-    <img src="https://komarev.com/ghpvc/?username=OliverAven01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=OliverAven01&label=Profile%20Views&color=39FF14&style=for-the-badge" alt="Profile views" />
   </a>
   <a href="https://github.com/OliverAven01?tab=followers">
-    <img src="https://img.shields.io/github/followers/OliverAven01?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/OliverAven01?label=Followers&style=for-the-badge&color=00FF41" alt="GitHub followers"/>
   </a>
   <a href="https://github.com/OliverAven01?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Public-green?style=for-the-badge" alt="Public Repos"/>
+    <img src="https://img.shields.io/badge/Repos-Public-00FF41?style=for-the-badge" alt="Public Repos"/>
   </a>
 </p>
 
-<!-- Animated Line -->
+<!-- Animated Green Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- Animated Developer GIF -->
@@ -65,9 +65,9 @@ const oliver = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-Fundamentals%20Certified-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Experience-+3%20Years-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-00FF41?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scrum-Fundamentals%20Certified-39FF14?style=for-the-badge&logo=scrumalliance&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Experience-+3%20Years-00FF41?style=for-the-badge"/>
 </p>
 
 <!-- Animated Line -->
@@ -123,7 +123,7 @@ const oliver = {
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OliverAven01&theme=algolia&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OliverAven01&theme=matrix&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <!-- Snake Animation -->
@@ -136,7 +136,7 @@ const oliver = {
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Oliver's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Oliver's%20Contribution%20Graph&theme=green&hide_border=true&area=true&color=00FF41&line=39FF14&point=FFFFFF" width="100%"/>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -156,16 +156,16 @@ const oliver = {
 
 <p align="center">
   <a href="https://linkedin.com/in/oliverchuctaya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
   <a href="https://wa.me/51963072856" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-39FF14?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp"/>
   </a>
   <a href="mailto:oliveraven05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
   </a>
   <a href="https://oliveraven01.biox.com.pe/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio"/>
   </a>
 </p>
 
@@ -182,7 +182,7 @@ const oliver = {
 ## 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%27s%20bad.&author=Cory%20House" alt="Dev Quote"/>
 </p>
 
 <!-- Animated Coding GIF -->
@@ -190,14 +190,14 @@ const oliver = {
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding"/>
 </p>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=100&section=footer"/>
+<!-- Footer Wave - Green Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=120&section=footer"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;The+Matrix+has+you...+%F0%9F%92%9A" alt="Footer Typing"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
-  <img src="https://img.shields.io/badge/From-Perú%20🇵🇪-red?style=for-the-badge" alt="From Peru"/>
+  <img src="https://img.shields.io/badge/Made%20with-💚-00FF41?style=for-the-badge" alt="Made with love"/>
+  <img src="https://img.shields.io/badge/From-Perú%20🇵🇪-39FF14?style=for-the-badge" alt="From Peru"/>
 </p>
