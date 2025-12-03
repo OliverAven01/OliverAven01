@@ -1,7 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Oliver%20Chuctaya%20Avenda%C3%B1o&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00d4ff,50:7c3aed,100:f472b6&text=Oliver%20Chuctaya%20Avendaño&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Software%20Engineer%20|%20Cloud%20Enthusiast&descSize=20&descAlignY=55&stroke=00d4ff&strokeWidth=2"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+scalable+solutions;%F0%9F%92%A1+Turning+ideas+into+code;%E2%9A%A1+Clean+Code+%7C+Best+Practices+%7C+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💻+Passionate+about+building+amazing+software;🌟+Transforming+ideas+into+digital+reality;⚡+Clean+Code+%7C+Best+Practices+%7C+Innovation;🔥+Let's+create+something+extraordinary!" alt="Typing SVG" />
+</p>
+
+<!-- Animated Matrix Effect -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.gif" width="300"/>
 </p>
 
 <p align="center">
