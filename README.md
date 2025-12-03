@@ -121,11 +121,6 @@ const oliver = {
   <img src="https://github-profile-trophy.vercel.app/?username=OliverAven01&theme=algolia&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OliverAven01&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=OliverAven01&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
