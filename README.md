@@ -82,25 +82,31 @@ He trabajado en proyectos freelance para distintas industrias, asi como en entor
   <tr>
     <td width="50%" valign="top">
       <p><b><a href="https://github.com/OliverAven01/Punto-Venta">Punto-Venta</a></b> &nbsp;<img src="https://img.shields.io/github/languages/top/OliverAven01/Punto-Venta?color=00FF41"/></p>
-      <sub>Sistema de punto de venta construido con JavaScript. Gestion de inventario, ventas y reportes. Proyecto completo con base de datos integrada y despliegue funcional.</sub>
+      <sub>Sistema de punto de venta construido con JavaScript. Gestion de inventario, ventas y reportes.</sub>
     </td>
     <td width="50%" valign="top">
       <p><b><a href="https://github.com/OliverAven01/LectorNfcLUKA">LectorNfcLUKA</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OliverAven01/LectorNfcLUKA?color=00FF41"/></p>
-      <sub>Aplicacion en Python para lectura y procesamiento de tags NFC. Orientado a control de acceso y registro de datos. Compatible con multiples lectores NFC.</sub>
+      <sub>Aplicacion en Python para lectura y procesamiento de tags NFC.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><b><a href="https://github.com/OliverAven01/Luka-Frontend">Luka-Frontend</a></b> &nbsp;<img src="https://img.shields.io/github/languages/top/OliverAven01/Luka-Frontend?color=00FF41"/></p>
-      <sub>Aplicacion frontend desarrollada con TypeScript y React. Interfaz moderna con componentes reutilizables, manejo de estado y consumo de APIs REST.</sub>
+      <sub>Aplicacion frontend con TypeScript y React. Interfaz moderna y componentes reutilizables.</sub>
     </td>
     <td width="50%" valign="top">
       <p><b><a href="https://github.com/OliverAven01/movieapp01">movieapp01</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OliverAven01/movieapp01?color=00FF41"/></p>
-      <sub>Aplicacion web para exploracion de peliculas. Consume APIs externas, presenta interfaz responsive y busqueda con filtros.</sub>
+      <sub>Aplicacion web para exploracion de peliculas con interfaz responsive.</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <p><b>BIOX</b> <sub>(privado)</sub></p>
-      <sub>Sistema e-commerce con MLM desarrollado con Node.js, React y MySQL. Implementa comisiones en SOLES con 16 rangos de afiliacion, panel administrativo y despliegue en Railway.</sub>
+      <sub>Sistema e-commerce con MLM. Node.js, React, MySQL. Comisiones en SOLES, 16 rangos de afiliacion.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <p><b>Aven</b> <sub>(privado)</sub></p>
+      <sub>App movil de autocuidado y crecimiento personal. React, Capacitor, Node.js, SQLite. Journaling con IA, mentor filosofico, habitos y feed social.</sub>
     </td>
   </tr>
 </table>
