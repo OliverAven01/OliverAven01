@@ -93,17 +93,6 @@ Mi trabajo abarca desde el diseño de interfaces hasta la orquestación de infra
 ## Estadisticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OliverAven01&theme=matrix&no-frame=true&column=5&margin-w=16&margin-h=16" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OliverAven01&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&text_color=FFFFFF&title_color=00FF41&include_all_commits=true&count_private=true&rank_icon=percentile" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverAven01&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=OliverAven01&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </p>
 
