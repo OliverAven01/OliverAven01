@@ -109,6 +109,14 @@ He trabajado en proyectos freelance para distintas industrias, asi como en entor
       <sub>App movil de autocuidado y crecimiento personal con enfoque filosofico. Desarrollada con React 19, Capacitor, TypeScript, Tailwind CSS, Framer Motion y backend en Node.js + Express + SQLite. Integra inteligencia artificial via Gemini API para diario personal con debate socratico, chat con mentor IA con personalidad segun clan filosofico, feed social de reflexiones con votos y comentarios, reels de frases generadas por IA, sistema de rachas de habitos, medallas y logros, XP y niveles, grafico radial de puntuaciones filosoficas, y onboarding con quiz de personalidad que asigna a 1 de 8 clanes. Compilacion nativa a Android via Capacitor.</sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><b>SOS en SENAS</b> <sub>(privado)</sub></p>
+      <sub>Aplicacion movil/web de reconocimiento de lenguaje de senas en tiempo real mediante IA, orientada a alertas de emergencia. Desarrollada con React, TypeScript, Vite, Tailwind, shadcn/ui y Capacitor para Android. Implementa deteccion de manos y landmarks con MediaPipe Handpose, base de datos de senas personalizadas (grabar, guardar y gestionar gestos), reconocimiento automatico con disparo de alertas SOS, historial de detecciones, estadisticas de uso, text-to-speech nativo para vocalizar senas detectadas, y carga de videos para registrar nuevas senas. Backend con Supabase (Lovable Cloud) y almacenamiento local con IndexedDB.</sub>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 <br>
