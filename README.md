@@ -98,6 +98,10 @@ He trabajado en proyectos freelance para distintas industrias, asi como en entor
       <p><b><a href="https://github.com/OliverAven01/movieapp01">movieapp01</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OliverAven01/movieapp01?color=00FF41"/></p>
       <sub>Aplicacion web para exploracion de peliculas. Consume APIs externas, presenta interfaz responsive y busqueda con filtros.</sub>
     </td>
+    <td width="50%" valign="top">
+      <p><b>BIOX</b> <sub>(privado)</sub></p>
+      <sub>Sistema e-commerce con MLM desarrollado con Node.js, React y MySQL. Implementa comisiones en SOLES con 16 rangos de afiliacion, panel administrativo y despliegue en Railway.</sub>
+    </td>
   </tr>
 </table>
 
