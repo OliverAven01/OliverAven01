@@ -10,83 +10,39 @@
   <img src="https://img.shields.io/github/stars/OliverAven01?label=STARS&style=flat-square&color=00FF41" />
 </p>
 
-<br>
+---
+
+## About
+
+Software engineer from Peru who enjoys building things that live on the internet. I focus on full-stack development and cloud architecture, creating applications that are both robust and a pleasure to use. My approach combines clean code practices with a genuine curiosity for how things work under the hood.
+
+- Full-stack development with modern frameworks and tools
+- Cloud-native architecture on AWS with containerized services
+- RESTful API design and distributed backend systems
+- Clean architecture, testing, and CI/CD pipelines
 
 ---
 
-```
-  █████╗ ██████╗  ██████╗ ██╗   ██╗████████╗
- ██╔══██╗██╔══██╗██╔═══██╗██║   ██║╚══██╔══╝
- ███████║██████╔╝██║   ██║██║   ██║   ██║   
- ██╔══██║██╔══██╗██║   ██║██║   ██║   ██║   
- ██║  ██║██║  ██║╚██████╔╝╚██████╔╝   ██║   
- ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   
-```
-
-Software engineer with expertise in full-stack development, cloud architecture, and distributed systems. I design and build scalable applications that solve real-world problems, from front-end interfaces to back-end infrastructure.
-
-- Design and implement **full-stack web applications** using modern frameworks
-- Architect **cloud-native solutions** on AWS with containerized microservices
-- Develop **RESTful APIs** and distributed backend systems
-- Advocate for **clean architecture**, **test-driven development**, and **CI/CD pipelines**
-
----
-
-```
-████████╗███████╗ ██████╗██╗  ██╗
-╚══██╔══╝██╔════╝██╔════╝██║  ██║
-   ██║   █████╗  ██║     ███████║
-   ██║   ██╔══╝  ██║     ██╔══██║
-   ██║   ███████╗╚██████╗██║  ██║
-   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
-```
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend</strong></td>
-    <td align="center" width="25%"><strong>Database</strong></td>
-    <td align="center" width="25%"><strong>DevOps & Cloud</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,js,ts&theme=dark&perline=3" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,laravel,python,java&theme=dark&perline=3" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark&perline=2" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,github,gitlab&theme=dark&perline=3" />
-    </td>
-  </tr>
-</table>
-
-<br>
+## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,js,ts,nodejs,express,django,spring,laravel,python,java,mysql,postgresql,mongodb,firebase,aws,gcp,azure,docker,github,gitlab&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-```
- ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗ 
-██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
-██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
-██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
-╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
- ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
-```
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OliverAven01&theme=matrix&no-frame=true&column=6&margin-w=12&margin-h=12" />
@@ -104,19 +60,12 @@ Software engineer with expertise in full-stack development, cloud architecture, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Contribution%20Activity&theme=github-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=FFFFFF" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Contribution+Activity&theme=github-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=FFFFFF" width="95%" />
 </p>
 
 ---
 
-```
- ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗
-██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝
-██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║   
-██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║   
-╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║   
- ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝   
-```
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/oliverchuctaya" target="_blank">
@@ -136,7 +85,7 @@ Software engineer with expertise in full-stack development, cloud architecture, 
 <br>
 
 <p align="center">
-  <code>open to collaboration and new opportunities</code>
+  Thanks for stopping by. If you would like to work together or just talk tech, feel free to reach out.
 </p>
 
 ---
