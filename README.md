@@ -20,16 +20,13 @@
 
 <table>
   <tr>
-    <td width="180" valign="top" align="center">
-      <img src="./oliver.png" width="150" style="border-radius: 12px; border: 2px solid #00FF41;" alt="Oliver Chuctaya" />
+    <td width="160" valign="top" align="center">
+      <img src="./oliver.png" width="140" style="border-radius: 10px; border: 2px solid #00FF41;" alt="Oliver Chuctaya" />
     </td>
     <td valign="top">
-      <p>
-        Ingeniero de software peruano con experiencia en el desarrollo de aplicaciones web, sistemas cloud-native y soluciones full-stack. Mi trabajo abarca proyectos freelance para diversas industrias asi como desarrollo interno en empresas, siempre enfocado en entregar software confiable y bien arquitectado.
-      </p>
-      <p>
-        Me gusta entender el problema antes de escribir codigo, y creo que las mejores soluciones nacen de la colaboracion y el intercambio de ideas. Actualmente trabajo con tecnologias modernas como React, Node.js, TypeScript y AWS, y estoy abierto a nuevos desafios.
-      </p>
+      Ingeniero de software peruano con experiencia en desarrollo full-stack, arquitectura cloud-native y sistemas distribuidos. He trabajado tanto en proyectos freelance como en entornos corporativos, construyendo aplicaciones web, sistemas de gestion, apps moviles y soluciones con inteligencia artificial.
+      <br><br>
+      Me enfoco en escribir codigo limpio y bien estructurado, disenar arquitecturas escalables y entregar software que realmente resuelva problemas. Actualmente trabajo con React, Node.js, TypeScript, AWS y Docker, y estoy abierto a nuevos proyectos y colaboraciones.
     </td>
   </tr>
 </table>
@@ -53,19 +50,15 @@
 
 ## Experiencia
 
-He trabajado en proyectos freelance para distintas industrias, asi como en entornos corporativos desarrollando software a medida. Mi experiencia incluye desde sistemas de punto de venta hasta aplicaciones de lectura NFC, abarcando tanto frontend como backend y despliegue en la nube.
-
-<br>
-
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <b>Desarrollo Freelance</b><br>
-      <sub>Proyectos personalizados para clientes en diversos sectores: sistemas de gestion, plataformas web, integraciones y prototipos funcionales. Trabajo directo con el cliente desde la toma de requisitos hasta el despliegue final.</sub>
+      <b>Freelance</b><br>
+      <sub>Proyectos personalizados para clientes: sistemas de gestion, plataformas web, integraciones y prototipos funcionales. Trabajo directo desde la toma de requisitos hasta el despliegue final.</sub>
     </td>
     <td width="50%" valign="top">
-      <b>Desarrollo en Empresa</b><br>
-      <sub>Participacion en equipos de desarrollo interno, construccion de aplicaciones corporativas, mantenimiento de sistemas legacy y migracion a arquitecturas modernas. Enfoque en calidad, documentacion y buenas practicas.</sub>
+      <b>Empresa</b><br>
+      <sub>Desarrollo interno corporativo, construccion de aplicaciones a medida, mantenimiento de sistemas legacy y migracion a arquitecturas modernas con enfoque en calidad y buenas practicas.</sub>
     </td>
   </tr>
 </table>
@@ -76,46 +69,45 @@ He trabajado en proyectos freelance para distintas industrias, asi como en entor
 
 <br>
 
-## Proyectos destacados
+## Proyectos
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <p><b><a href="https://github.com/OliverAven01/Punto-Venta">Punto-Venta</a></b> &nbsp;<img src="https://img.shields.io/github/languages/top/OliverAven01/Punto-Venta?color=00FF41"/></p>
-      <sub>Sistema de punto de venta construido con JavaScript. Gestion de inventario, ventas y reportes.</sub>
+      <p><b><a href="https://github.com/OliverAven01/Punto-Venta">Punto-Venta</a></b> &nbsp;<img src="https://img.shields.io/github/languages/top/OliverAven01/Punto-Venta?color=00FF41&style=flat-square"/></p>
+      <sub>POS con JavaScript, Node.js y MySQL. Gestion de inventario, ventas y reportes.</sub>
     </td>
     <td width="50%" valign="top">
-      <p><b><a href="https://github.com/OliverAven01/LectorNfcLUKA">LectorNfcLUKA</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OliverAven01/LectorNfcLUKA?color=00FF41"/></p>
-      <sub>Aplicacion en Python para lectura y procesamiento de tags NFC.</sub>
+      <p><b><a href="https://github.com/OliverAven01/LectorNfcLUKA">LectorNfcLUKA</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OliverAven01/LectorNfcLUKA?color=00FF41&style=flat-square"/></p>
+      <sub>Lector NFC en Python para control de acceso y registro de datos.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><b><a href="https://github.com/OliverAven01/Luka-Frontend">Luka-Frontend</a></b> &nbsp;<img src="https://img.shields.io/github/languages/top/OliverAven01/Luka-Frontend?color=00FF41"/></p>
-      <sub>Aplicacion frontend con TypeScript y React. Interfaz moderna y componentes reutilizables.</sub>
+      <p><b><a href="https://github.com/OliverAven01/Luka-Frontend">Luka-Frontend</a></b> &nbsp;<img src="https://img.shields.io/github/languages/top/OliverAven01/Luka-Frontend?color=00FF41&style=flat-square"/></p>
+      <sub>Frontend con TypeScript y React. Componentes modulares y consumo de APIs.</sub>
     </td>
     <td width="50%" valign="top">
-      <p><b><a href="https://github.com/OliverAven01/movieapp01">movieapp01</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OliverAven01/movieapp01?color=00FF41"/></p>
-      <sub>Aplicacion web para exploracion de peliculas con interfaz responsive.</sub>
+      <p><b><a href="https://github.com/OliverAven01/movieapp01">movieapp01</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OliverAven01/movieapp01?color=00FF41&style=flat-square"/></p>
+      <sub>App web de peliculas con APIs externas y diseño responsive.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><b>BIOX</b> <sub>(privado)</sub></p>
-      <sub>Sistema e-commerce con MLM desarrollado con Node.js, Express, React 18, Vite y MySQL. Implementa 16 rangos de afiliacion (9 de construccion + 7 de liderazgo), comisiones directas en SOLES, breakage automatico de niveles inactivos, panel administrativo completo y autenticacion JWT. Despliegue en Railway.</sub>
+      <sub>E-commerce con MLM. Node.js, Express, React 18, MySQL. 16 rangos de afiliacion, comisiones en SOLES, breakage, panel admin, JWT. Despliegue en Railway.</sub>
     </td>
     <td width="50%" valign="top">
       <p><b>Aven</b> <sub>(privado)</sub></p>
-      <sub>App movil de autocuidado y crecimiento personal con enfoque filosofico. Desarrollada con React 19, Capacitor, TypeScript, Tailwind CSS, Framer Motion y backend en Node.js + Express + SQLite. Integra inteligencia artificial via Gemini API para diario personal con debate socratico, chat con mentor IA con personalidad segun clan filosofico, feed social de reflexiones con votos y comentarios, reels de frases generadas por IA, sistema de rachas de habitos, medallas y logros, XP y niveles, grafico radial de puntuaciones filosoficas, y onboarding con quiz de personalidad que asigna a 1 de 8 clanes. Compilacion nativa a Android via Capacitor.</sub>
+      <sub>App movil de autocuidado con IA. React 19, Capacitor, TypeScript, Gemini API. Journaling, mentor filosofico, feed social, habitos, medallas, XP. Android nativo.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><b>SOS en SENAS</b> <sub>(privado)</sub></p>
-      <sub>Aplicacion movil/web de reconocimiento de lenguaje de senas en tiempo real mediante IA, orientada a alertas de emergencia. Desarrollada con React, TypeScript, Vite, Tailwind, shadcn/ui y Capacitor para Android. Implementa deteccion de manos y landmarks con MediaPipe Handpose, base de datos de senas personalizadas (grabar, guardar y gestionar gestos), reconocimiento automatico con disparo de alertas SOS, historial de detecciones, estadisticas de uso, text-to-speech nativo para vocalizar senas detectadas, y carga de videos para registrar nuevas senas. Backend con Supabase (Lovable Cloud) y almacenamiento local con IndexedDB.</sub>
+      <sub>Reconocimiento de lengua de senas en tiempo real con IA. React, TypeScript, MediaPipe Handpose, Capacitor. Alertas SOS, TTS, historial, Supabase. Android nativo.</sub>
     </td>
-    <td width="50%" valign="top">
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -125,7 +117,7 @@ He trabajado en proyectos freelance para distintas industrias, asi como en entor
 
 <br>
 
-## Stack tecnologico
+## Stack
 
 <p align="center">
   <code>Frontend</code>
