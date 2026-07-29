@@ -1,236 +1,144 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:0d4f21,100:00FF41&text=Oliver%20Chuctaya%20Avendaño&fontSize=45&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descSize=18&descAlignY=52&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:0d4f21,100:00FF41&text=Oliver%20Chuctaya%20Avenda%C3%B1o&fontSize=40&fontColor=00FF41&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Cloud%20Architecture&descSize=16&descAlignY=50&descColor=a0a0a0"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+scalable+solutions+%F0%9F%9A%80;Turning+ideas+into+code+%F0%9F%92%A1;Clean+Code+%7C+Best+Practices+%7C+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Building+production-grade+software;Cloud-native+architecture+%7C+Distributed+systems;Full-stack+development+with+modern+stack" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OliverAven01&label=Profile%20Views&color=00FF41&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/OliverAven01?label=Followers&style=flat-square&color=00FF41" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/OliverAven01?label=Stars&style=flat-square&color=00FF41" alt="GitHub stars"/>
+  <img src="https://komarev.com/ghpvc/?username=OliverAven01&label=PROFILE+VIEWS&color=00FF41&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/OliverAven01?label=FOLLOWERS&style=flat-square&color=00FF41" />
+  <img src="https://img.shields.io/github/stars/OliverAven01?label=STARS&style=flat-square&color=00FF41" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br>
 
 ---
 
-## ⚡ Quick Facts
-
-<p align="center">
-  <img src="https://img.shields.io/badge/☕-Coffee%20Lover-6F4E37?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌙-Night%20Coder-191970?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎮-Gamer-00FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/�-Lo--tFi%20Beats-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🐧-Linux%20Fan-FCC624?style=for-the-badge"/>
-</p>
-
----
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
-
-```bash
-$ whoami
-> oliver_chuctaya
-
-$ cat about.txt
-┌──────────────────────────────────────┐
-│  🇵🇪 Location: Perú                  │
-│  💼 Role: Full Stack Developer       │
-│  � Focus:i Cloud-Native Apps         │
-│  ⚡ Fun: console.log("debugging") 😄 │
-└──────────────────────────────────────┘
-
-$ skills --list
-["JavaScript", "TypeScript", "Python", "Java", "React", "Node.js", "AWS", "Docker"]
+```
+  █████╗ ██████╗  ██████╗ ██╗   ██╗████████╗
+ ██╔══██╗██╔══██╗██╔═══██╗██║   ██║╚══██╔══╝
+ ███████║██████╔╝██║   ██║██║   ██║   ██║   
+ ██╔══██║██╔══██╗██║   ██║██║   ██║   ██║   
+ ██║  ██║██║  ██║╚██████╔╝╚██████╔╝   ██║   
+ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   
 ```
 
-- 🔭 Desarrollo soluciones **Full Stack** de alto rendimiento
-- 🌱 Profundizando en **Cloud Architecture & DevOps**
-- � Abiertoo a colaborar en **proyectos Open Source**
-- 💬 Pregúntame sobre **React, Node.js, AWS, Docker**
+Software engineer with expertise in full-stack development, cloud architecture, and distributed systems. I design and build scalable applications that solve real-world problems, from front-end interfaces to back-end infrastructure.
 
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+- Design and implement **full-stack web applications** using modern frameworks
+- Architect **cloud-native solutions** on AWS with containerized microservices
+- Develop **RESTful APIs** and distributed backend systems
+- Advocate for **clean architecture**, **test-driven development**, and **CI/CD pipelines**
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70" alt="AWS"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70" alt="Git"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70" alt="VS Code"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🎖️_ACHIEVEMENT-AWS%20Certified-FF9900?style=for-the-badge&labelColor=232F3E"/>
-  <img src="https://img.shields.io/badge/🏅_UNLOCKED-Scrum%20Master-009FDA?style=for-the-badge&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/⭐_LEVEL_UP-+3%20Years%20XP-00FF41?style=for-the-badge&labelColor=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_STREAK-Code%20Warrior-FF4500?style=flat-square"/>
-  <img src="https://img.shields.io/badge/💎_RARE-Open%20Source%20Contributor-9400D3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🚀_EPIC-Cloud%20Architect-00CED1?style=flat-square"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
-</p>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" alt="JavaScript"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" alt="Python"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70" alt="Java"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" alt="GitHub"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70" alt="Git"/>
-</p>
+```
+████████╗███████╗ ██████╗██╗  ██╗
+╚══██╔══╝██╔════╝██╔════╝██║  ██║
+   ██║   █████╗  ██║     ███████║
+   ██║   ██╔══╝  ██║     ██╔══██║
+   ██║   ███████╗╚██████╗██║  ██║
+   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
+```
 
 <table align="center">
-<tr>
-<td align="center" width="50%">
-
-**Frontend**
-</td>
-<td align="center" width="50%">
-
-**Backend**
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,js,ts&theme=dark"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,laravel,python,java&theme=dark"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**Database**
-</td>
-<td align="center" width="50%">
-
-**DevOps & Cloud**
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,github,gitlab&theme=dark"/>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Backend</strong></td>
+    <td align="center" width="25%"><strong>Database</strong></td>
+    <td align="center" width="25%"><strong>DevOps & Cloud</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,js,ts&theme=dark&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,laravel,python,java&theme=dark&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark&perline=2" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,github,gitlab&theme=dark&perline=3" />
+    </td>
+  </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbade9-dcdd-4a0b-b3f0-f0e7b1b8e6a0.gif" width="350"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 📊 GitHub Analytics
+<br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OliverAven01&theme=matrix&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=OliverAven01&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Contribution%20Graph&theme=github-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=FFFFFF" width="95%"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🎮 Contributions
+```
+ ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗ 
+██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
+██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
+██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
+╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
+ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
+```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OliverAven01&theme=matrix&no-frame=true&column=6&margin-w=12&margin-h=12" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" width="100%">
-</picture>
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OliverAven01&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&text_color=FFFFFF&title_color=00FF41&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverAven01&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=OliverAven01&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Contribution%20Activity&theme=github-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=FFFFFF" width="95%" />
+</p>
 
 ---
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> Connect with Me
-
-<p align="center">
-  <img src="./oliver.png" width="120" alt="Oliver"/>
-</p>
+```
+ ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗
+██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝
+██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║   
+██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║   
+╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║   
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝   
+```
 
 <p align="center">
   <a href="https://linkedin.com/in/oliverchuctaya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/51963072856" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:oliveraven05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://oliveraven01.biox.com.pe/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=About.me&logoColor=black" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://oliveraven01.biox.com.pe/" target="_blank">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://oliveraven01.biox.com.pe/&bgcolor=0d1117&color=00FF41" alt="Portfolio QR"/>
-  </a>
-</p>
-<p align="center"><i>📱 Scan to visit my portfolio</i></p>
-
----
-
-## 💡 Inspirational Quote
+<br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180"/>
-</p>
-
-<p align="center">
-  <i>"The only way to do great work is to love what you do."</i>
-</p>
-
-<p align="center">
-  <b>— Steve Jobs 🍎</b>
+  <code>open to collaboration and new opportunities</code>
 </p>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d4f21,100:00FF41&height=100&section=footer"/>
-
-<h3 align="center">✨ Thanks for visiting! ✨</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Let's+build+something+amazing+together!;Open+to+new+opportunities+%F0%9F%9A%80" alt="Footer Typing"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-💚-00FF41?style=flat-square"/>
-  <img src="https://img.shields.io/badge/From-Perú%20🇵🇪-D91023?style=flat-square"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Mario Coding"/>
-</p>
