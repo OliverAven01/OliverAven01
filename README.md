@@ -95,17 +95,17 @@
   <tr>
     <td width="50%" valign="top">
       <p><b>BIOX</b> <sub>(privado)</sub></p>
-      <sub>E-commerce con MLM. Node.js, Express, React 18, MySQL. 16 rangos de afiliacion, comisiones en SOLES, breakage, panel admin, JWT. Despliegue en Railway.</sub>
+      <sub>Sistema e-commerce con MLM desarrollado con Node.js, Express, React 18, Vite y MySQL. Implementa 16 rangos de afiliacion (9 de construccion + 7 de liderazgo), comisiones directas en SOLES, breakage automatico de niveles inactivos, panel administrativo completo y autenticacion JWT. Despliegue en Railway.</sub>
     </td>
     <td width="50%" valign="top">
       <p><b>Aven</b> <sub>(privado)</sub></p>
-      <sub>App movil de autocuidado con IA. React 19, Capacitor, TypeScript, Gemini API. Journaling, mentor filosofico, feed social, habitos, medallas, XP. Android nativo.</sub>
+      <sub>App movil de autocuidado y crecimiento personal con enfoque filosofico. Desarrollada con React 19, Capacitor, TypeScript, Tailwind CSS, Framer Motion y backend en Node.js + Express + SQLite. Integra inteligencia artificial via Gemini API para diario personal con debate socratico, chat con mentor IA con personalidad segun clan filosofico (8 clanes), feed social de reflexiones con votos y comentarios, reels de frases generadas por IA, sistema de rachas de habitos, medallas y logros, XP y niveles, grafico radial de puntuaciones filosoficas, y onboarding con quiz de personalidad. Compilacion nativa a Android via Capacitor.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><b>SOS en SENAS</b> <sub>(privado)</sub></p>
-      <sub>Reconocimiento de lengua de senas en tiempo real con IA. React, TypeScript, MediaPipe Handpose, Capacitor. Alertas SOS, TTS, historial, Supabase. Android nativo.</sub>
+      <sub>Aplicacion movil/web de reconocimiento de lenguaje de senas en tiempo real mediante IA, orientada a alertas de emergencia. Desarrollada con React, TypeScript, Vite, Tailwind, shadcn/ui y Capacitor para Android. Implementa deteccion de manos y landmarks con MediaPipe Handpose, base de datos de senas personalizadas (grabar, guardar y gestionar gestos), reconocimiento automatico con disparo de alertas SOS, historial de detecciones, estadisticas de uso, text-to-speech nativo para vocalizar senas detectadas, y carga de videos para registrar nuevas senas. Backend con Supabase y almacenamiento local con IndexedDB.</sub>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
