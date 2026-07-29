@@ -11,7 +11,6 @@
 </p>
 
 <br>
-<br>
 
 ---
 
@@ -19,13 +18,21 @@
 
 ## Sobre mi
 
-<p align="center">
-  <b>Ingeniero de software peruano apasionado por construir sistemas que funcionan a escala.</b>
-</p>
-
-<br>
-
-Mi trabajo abarca desde el diseño de interfaces hasta la orquestación de infraestructura en la nube. Me especializo en arquitecturas cloud-native, desarrollo full-stack y sistemas distribuidos. Creo que el software excepcional nace de la combinacion entre rigor técnico, curiosidad constante y colaboración genuina.
+<table>
+  <tr>
+    <td width="180" valign="top" align="center">
+      <img src="./oliver.png" width="150" style="border-radius: 12px; border: 2px solid #00FF41;" alt="Oliver Chuctaya" />
+    </td>
+    <td valign="top">
+      <p>
+        Ingeniero de software peruano con experiencia en el desarrollo de aplicaciones web, sistemas cloud-native y soluciones full-stack. Mi trabajo abarca proyectos freelance para diversas industrias asi como desarrollo interno en empresas, siempre enfocado en entregar software confiable y bien arquitectado.
+      </p>
+      <p>
+        Me gusta entender el problema antes de escribir codigo, y creo que las mejores soluciones nacen de la colaboracion y el intercambio de ideas. Actualmente trabajo con tecnologias modernas como React, Node.js, TypeScript y AWS, y estoy abierto a nuevos desafios.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -35,6 +42,62 @@ Mi trabajo abarca desde el diseño de interfaces hasta la orquestación de infra
     <td align="center" width="25%"><b>Desarrollo Full-Stack</b><br><sub>React · Node.js · TypeScript</sub></td>
     <td align="center" width="25%"><b>Sistemas Distribuidos</b><br><sub>APIs · Escalabilidad · Rendimiento</sub></td>
     <td align="center" width="25%"><b>Buenas Practicas</b><br><sub>Clean Code · CI/CD · Testing</sub></td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## Experiencia
+
+He trabajado en proyectos freelance para distintas industrias, asi como en entornos corporativos desarrollando software a medida. Mi experiencia incluye desde sistemas de punto de venta hasta aplicaciones de lectura NFC, abarcando tanto frontend como backend y despliegue en la nube.
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <b>Desarrollo Freelance</b><br>
+      <sub>Proyectos personalizados para clientes en diversos sectores: sistemas de gestion, plataformas web, integraciones y prototipos funcionales. Trabajo directo con el cliente desde la toma de requisitos hasta el despliegue final.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Desarrollo en Empresa</b><br>
+      <sub>Participacion en equipos de desarrollo interno, construccion de aplicaciones corporativas, mantenimiento de sistemas legacy y migracion a arquitecturas modernas. Enfoque en calidad, documentacion y buenas practicas.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## Proyectos destacados
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <p><b><a href="https://github.com/OliverAven01/Punto-Venta">Punto-Venta</a></b> &nbsp;<img src="https://img.shields.io/github/languages/top/OliverAven01/Punto-Venta?color=00FF41"/></p>
+      <sub>Sistema de punto de venta construido con JavaScript. Gestion de inventario, ventas y reportes. Proyecto completo con base de datos integrada y despliegue funcional.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <p><b><a href="https://github.com/OliverAven01/LectorNfcLUKA">LectorNfcLUKA</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OliverAven01/LectorNfcLUKA?color=00FF41"/></p>
+      <sub>Aplicacion en Python para lectura y procesamiento de tags NFC. Orientado a control de acceso y registro de datos. Compatible con multiples lectores NFC.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><b><a href="https://github.com/OliverAven01/Luka-Frontend">Luka-Frontend</a></b> &nbsp;<img src="https://img.shields.io/github/languages/top/OliverAven01/Luka-Frontend?color=00FF41"/></p>
+      <sub>Aplicacion frontend desarrollada con TypeScript y React. Interfaz moderna con componentes reutilizables, manejo de estado y consumo de APIs REST.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <p><b><a href="https://github.com/OliverAven01/movieapp01">movieapp01</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OliverAven01/movieapp01?color=00FF41"/></p>
+      <sub>Aplicacion web para exploracion de peliculas. Consume APIs externas, presenta interfaz responsive y busqueda con filtros.</sub>
+    </td>
   </tr>
 </table>
 
@@ -90,7 +153,7 @@ Mi trabajo abarca desde el diseño de interfaces hasta la orquestación de infra
 
 <br>
 
-## Estadisticas de GitHub
+## Actividad
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=OliverAven01&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
@@ -126,7 +189,7 @@ Mi trabajo abarca desde el diseño de interfaces hasta la orquestación de infra
 <br>
 
 <p align="center">
-  Si te interesa colaborar o simplemente conversar sobre tecnologia, estare encantado de escucharte.
+  Si te interesa colaborar en un proyecto, tienes una idea que quisieras discutir o simplemente quieres conectar, estare encantado de conversar.
 </p>
 
 <br>
