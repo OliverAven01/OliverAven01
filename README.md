@@ -102,11 +102,11 @@ He trabajado en proyectos freelance para distintas industrias, asi como en entor
   <tr>
     <td width="50%" valign="top">
       <p><b>BIOX</b> <sub>(privado)</sub></p>
-      <sub>Sistema e-commerce con MLM. Node.js, React, MySQL. Comisiones en SOLES, 16 rangos de afiliacion.</sub>
+      <sub>Sistema e-commerce con MLM desarrollado con Node.js, Express, React 18, Vite y MySQL. Implementa 16 rangos de afiliacion (9 de construccion + 7 de liderazgo), comisiones directas en SOLES, breakage automatico de niveles inactivos, panel administrativo completo y autenticacion JWT. Despliegue en Railway.</sub>
     </td>
     <td width="50%" valign="top">
       <p><b>Aven</b> <sub>(privado)</sub></p>
-      <sub>App movil de autocuidado y crecimiento personal. React, Capacitor, Node.js, SQLite. Journaling con IA, mentor filosofico, habitos y feed social.</sub>
+      <sub>App movil de autocuidado y crecimiento personal con enfoque filosofico. Desarrollada con React 19, Capacitor, TypeScript, Tailwind CSS, Framer Motion y backend en Node.js + Express + SQLite. Integra inteligencia artificial via Gemini API para diario personal con debate socratico, chat con mentor IA con personalidad segun clan filosofico, feed social de reflexiones con votos y comentarios, reels de frases generadas por IA, sistema de rachas de habitos, medallas y logros, XP y niveles, grafico radial de puntuaciones filosoficas, y onboarding con quiz de personalidad que asigna a 1 de 8 clanes. Compilacion nativa a Android via Capacitor.</sub>
     </td>
   </tr>
 </table>
