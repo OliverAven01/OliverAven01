@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,35:00FF41,70:00b4d8,100:0d1117&text=Oliver%20Chuctaya%20Avenda%C3%B1o&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20AI&descSize=18&descAlignY=55&descColor=00FF41" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1026,35:8AC926,70:00C2D1,100:0b1026&text=Oliver%20Chuctaya%20Avenda%C3%B1o&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20AI&descSize=18&descAlignY=55&descColor=8AC926" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=820&height=50&lines=⚡+Arquitectura+Cloud+%7C+Full-Stack+%7C+Sistemas+Distribuidos;⚡+Clean+Code+%7C+CI%2FCD+%7C+Testing;⚡+IA+Aplicada+%7C+Apps+M%C3%B3viles+%7C+IoT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=8AC926&center=true&vCenter=true&multiline=false&width=820&height=50&lines=Arquitectura+Cloud+%7C+Full-Stack+%7C+Sistemas+Distribuidos;Clean+Code+%7C+CI%2FCD+%7C+Testing;IA+Aplicada+%7C+Apps+M%C3%B3viles+%7C+IoT" alt="Typing SVG" />
 </div>
 
 <br>
@@ -13,14 +13,14 @@
   <a href="https://github.com/OliverAven01" target="_blank"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://wa.me/51963072856" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:oliveraven05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://oliveraven01.biox.com.pe/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-00FF41?style=for-the-badge&logo=About.me&logoColor=0d1117" /></a>
+  <a href="https://oliveraven01.biox.com.pe/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-FFB703?style=for-the-badge&logo=About.me&logoColor=0b1026" /></a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OliverAven01&label=VISITAS&color=00FF41&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/OliverAven01?label=SEGUIDORES&style=flat-square&color=00FF41" />
-  <img src="https://img.shields.io/github/stars/OliverAven01?label=ESTRELLAS&style=flat-square&color=00FF41" />
-  <img src="https://img.shields.io/github/last-commit/OliverAven01/OliverAven01?label=ULTIMO+COMMIT&style=flat-square&color=00FF41" />
+  <img src="https://komarev.com/ghpvc/?username=OliverAven01&label=VISITAS&color=8AC926&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/OliverAven01?label=SEGUIDORES&style=flat-square&color=8AC926" />
+  <img src="https://img.shields.io/github/stars/OliverAven01?label=ESTRELLAS&style=flat-square&color=8AC926" />
+  <img src="https://img.shields.io/github/last-commit/OliverAven01/OliverAven01?label=ULTIMO+COMMIT&style=flat-square&color=8AC926" />
 </div>
 
 <br>
@@ -30,12 +30,12 @@
 
 <br>
 
-## 🧑‍🚀 Sobre mi
+## Sobre mi
 
 <table>
   <tr>
     <td width="28%" valign="top" align="center">
-      <img src="./oliver.png" width="200" style="border-radius: 15px; border: 3px solid #00FF41; box-shadow: 0 0 25px #00FF4180;" alt="Oliver Chuctaya" />
+      <img src="./oliver.png" width="200" style="border-radius: 15px; border: 3px solid #8AC926; box-shadow: 0 0 25px #8AC92680;" alt="Oliver Chuctaya" />
     </td>
     <td width="72%" valign="top">
       <p>
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-### 🏆 Especialidades
+### Especialidades
 
 <table align="center">
   <tr>
@@ -81,7 +81,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OliverAven01&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" alt="Trofeos GitHub" />
@@ -90,20 +90,20 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OliverAven01&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" width="48%" alt="Estadísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverAven01&layout=donut&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="38%" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OliverAven01&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0b1026&title_color=8AC926&icon_color=00C2D1&text_color=c9d1d9&ring_color=8AC926" width="48%" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverAven01&layout=donut&langs_count=8&theme=dark&hide_border=true&bg_color=0b1026&title_color=8AC926&text_color=c9d1d9" width="38%" alt="Lenguajes más usados" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=OliverAven01&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8B949E" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=OliverAven01&theme=dark&hide_border=true&background=0B1026&ring=8AC926&fire=FFB703&currStreakLabel=8AC926&sideLabels=8B949E&sideNums=c9d1d9" alt="Racha de contribuciones" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Actividad+de+Contribuciones&theme=github-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=FFFFFF&bg_color=0d1117" width="98%" alt="Gráfico de actividad" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Actividad+de+Contribuciones&theme=github-dark&hide_border=true&area=true&color=8AC926&line=8AC926&point=FFFFFF&bg_color=0b1026" width="98%" alt="Gráfico de actividad" />
 </div>
 
 <br>
@@ -112,16 +112,16 @@
 
 <br>
 
-## 💼 Experiencia
+## Experiencia
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🟢 Freelance</h3>
+      <h3 align="center">Freelance</h3>
       <p align="center"><sub>Proyectos personalizados para clientes: sistemas de gestión, plataformas web, integraciones y prototipos funcionales. Trabajo directo desde la toma de requisitos hasta el despliegue final.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🟢 Empresa</h3>
+      <h3 align="center">Empresa</h3>
       <p align="center"><sub>Desarrollo interno corporativo, construcción de aplicaciones a medida, mantenimiento de sistemas legacy y migración a arquitecturas modernas con enfoque en calidad y buenas prácticas.</sub></p>
     </td>
   </tr>
@@ -133,48 +133,48 @@
 
 <br>
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/OliverAven01/Punto-Venta">🛒 Punto-Venta</a></h3>
+      <h3><a href="https://github.com/OliverAven01/Punto-Venta">Punto-Venta</a></h3>
       <sub>POS con JavaScript, Node.js y MySQL. Gestión de inventario, ventas y reportes.</sub><br><br>
-      <img src="https://img.shields.io/github/languages/top/OliverAven01/Punto-Venta?color=00FF41&style=flat-square" />
-      <img src="https://img.shields.io/github/stars/OliverAven01/Punto-Venta?color=00FF41&style=flat-square" />
+      <img src="https://img.shields.io/github/languages/top/OliverAven01/Punto-Venta?color=8AC926&style=flat-square" />
+      <img src="https://img.shields.io/github/stars/OliverAven01/Punto-Venta?color=FFB703&style=flat-square" />
     </td>
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/OliverAven01/LectorNfcLUKA">🔖 LectorNfcLUKA</a></h3>
+      <h3><a href="https://github.com/OliverAven01/LectorNfcLUKA">LectorNfcLUKA</a></h3>
       <sub>Lector NFC en Python para control de acceso y registro de datos.</sub><br><br>
-      <img src="https://img.shields.io/github/languages/top/OliverAven01/LectorNfcLUKA?color=00FF41&style=flat-square" />
-      <img src="https://img.shields.io/github/stars/OliverAven01/LectorNfcLUKA?color=00FF41&style=flat-square" />
+      <img src="https://img.shields.io/github/languages/top/OliverAven01/LectorNfcLUKA?color=8AC926&style=flat-square" />
+      <img src="https://img.shields.io/github/stars/OliverAven01/LectorNfcLUKA?color=FFB703&style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/OliverAven01/Luka-Frontend">🎨 Luka-Frontend</a></h3>
+      <h3><a href="https://github.com/OliverAven01/Luka-Frontend">Luka-Frontend</a></h3>
       <sub>Frontend con TypeScript y React. Componentes modulares y consumo de APIs.</sub><br><br>
-      <img src="https://img.shields.io/github/languages/top/OliverAven01/Luka-Frontend?color=00FF41&style=flat-square" />
+      <img src="https://img.shields.io/github/languages/top/OliverAven01/Luka-Frontend?color=8AC926&style=flat-square" />
     </td>
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/OliverAven01/movieapp01">🎬 movieapp01</a></h3>
+      <h3><a href="https://github.com/OliverAven01/movieapp01">movieapp01</a></h3>
       <sub>App web de películas con APIs externas y diseño responsive.</sub><br><br>
-      <img src="https://img.shields.io/github/stars/OliverAven01/movieapp01?color=00FF41&style=flat-square" />
+      <img src="https://img.shields.io/github/stars/OliverAven01/movieapp01?color=FFB703&style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🛍️ BIOX <sub><i>(privado)</i></sub></h3>
+      <h3>BIOX <sub><i>(privado)</i></sub></h3>
       <sub>Sistema e-commerce con MLM: Node.js, Express, React 18, Vite y MySQL. 16 rangos de afiliación, comisiones directas en SOLES, breakage automático, panel administrativo y autenticación JWT. Desplegado en Railway.</sub>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🌱 Aven <sub><i>(privado)</i></sub></h3>
+      <h3>Aven <sub><i>(privado)</i></sub></h3>
       <sub>App móvil de autocuidado con enfoque filosófico: React 19, Capacitor, TypeScript, Tailwind, Framer Motion, Node.js + SQLite. IA con Gemini: mentor por clan filosófico, feed social, rachas, medallas, XP y quiz de personalidad.</sub>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top" align="center" colspan="2">
-      <h3>🤟 SOS en SEÑAS <sub><i>(privado)</i></sub></h3>
+      <h3>SOS en SEÑAS <sub><i>(privado)</i></sub></h3>
       <sub>Reconocimiento de lenguaje de señas en tiempo real con IA para alertas de emergencia. React, TypeScript, Vite, Tailwind, shadcn/ui y Capacitor. MediaPipe Handpose, base de datos de señas personalizadas, alertas SOS, text-to-speech y Supabase.</sub>
     </td>
   </tr>
@@ -186,7 +186,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <table>
@@ -233,7 +233,7 @@
 
 <br>
 
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   Si te interesa colaborar en un proyecto, tienes una idea que quisieras discutir o simplemente quieres conectar, estaré encantado de conversar.
@@ -250,7 +250,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://oliveraven01.biox.com.pe/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-00FF41?style=for-the-badge&logo=About.me&logoColor=0d1117" />
+    <img src="https://img.shields.io/badge/Portafolio-FFB703?style=for-the-badge&logo=About.me&logoColor=0b1026" />
   </a>
 </div>
 
@@ -258,4 +258,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00FF41,70:00b4d8,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,30:8AC926,70:00C2D1,100:0b1026&height=120&section=footer"/>
