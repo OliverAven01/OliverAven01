@@ -26,15 +26,18 @@
 
 ---
 
-## `// SOBRE MÍ`
+## `// SOBRE MÍ` <img src="https://img.shields.io/badge/HUMAN-4ADE80?style=flat-square" />
 
 <table>
   <tr>
     <td width="25%" valign="top" align="center">
-      <img src="./oliver.png" width="160" style="border-radius: 10px;" alt="Oliver Chuctaya" />
+      <img src="./oliver.png" width="160" style="border-radius: 10px; border: 2px solid #4ADE80;" alt="Oliver Chuctaya" />
       <br><br>
       <b>Oliver Chuctaya</b><br>
-      <sub>Arequipa, Perú</sub>
+      <sub>Arequipa, Perú</sub><br><br>
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="28" />
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="28" />
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="28" />
     </td>
     <td width="75%" valign="top">
       <p>
@@ -49,11 +52,11 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="20%"><b>Cloud</b><br><sub>AWS · Docker</sub></td>
-    <td align="center" width="20%"><b>Full-Stack</b><br><sub>React · Node · TS</sub></td>
-    <td align="center" width="20%"><b>Distribuidos</b><br><sub>APIs · Escalabilidad</sub></td>
-    <td align="center" width="20%"><b>Buenas Prácticas</b><br><sub>Clean Code · CI/CD</sub></td>
-    <td align="center" width="20%"><b>IA Aplicada</b><br><sub>Gemini · MediaPipe</sub></td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=aws" width="40" /><br><b>Cloud</b><br><sub>AWS · Docker</sub></td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=react" width="40" /><br><b>Full-Stack</b><br><sub>React · Node · TS</sub></td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br><b>Distribuidos</b><br><sub>APIs · Escalabilidad</sub></td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=github" width="40" /><br><b>Buenas Prácticas</b><br><sub>Clean Code · CI/CD</sub></td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=python" width="40" /><br><b>IA Aplicada</b><br><sub>Gemini · MediaPipe</sub></td>
   </tr>
 </table>
 
@@ -63,7 +66,7 @@ STATUS: OPERACIONAL · FULL-STACK · CLOUD · IA · Arequipa, Perú
 
 ---
 
-## `// ACTIVIDAD`
+## `// ACTIVIDAD` <img src="https://img.shields.io/badge/LIVE-FFB703?style=flat-square" />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OliverAven01&theme=dark&hide_border=true&background=0B1026&ring=4ADE80&fire=FFB703&currStreakLabel=4ADE80&sideLabels=8B949E&sideNums=c9d1d9" alt="Racha de contribuciones" />
@@ -73,40 +76,46 @@ STATUS: OPERACIONAL · FULL-STACK · CLOUD · IA · Arequipa, Perú
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Actividad+de+Contribuciones&theme=github-dark&hide_border=true&area=true&color=4ADE80&line=4ADE80&point=FFFFFF&bg_color=0b1026" width="98%" alt="Gráfico de actividad" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/github-snake-dark.svg" alt="Serpiente de contribuciones" />
+</div>
+
 ---
 
-## `// REGISTRO DE SERVICIO`
+## `// REGISTRO DE SERVICIO` <img src="https://img.shields.io/badge/EXPERIENCIA-22D3EE?style=flat-square" />
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Freelance</h3>
-      <p align="center"><sub>Sistemas de gestión, plataformas web, integraciones y prototipos. De la toma de requisitos al despliegue final.</sub></p>
+    <td width="50%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="36" /><br>
+      <h3>Freelance</h3>
+      <sub>Sistemas de gestión, plataformas web, integraciones y prototipos. De la toma de requisitos al despliegue final.</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Empresa</h3>
-      <p align="center"><sub>Aplicaciones a medida, mantenimiento de sistemas legacy y migración a arquitecturas modernas con buenas prácticas.</sub></p>
+    <td width="50%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="36" /><br>
+      <h3>Empresa</h3>
+      <sub>Aplicaciones a medida, mantenimiento de sistemas legacy y migración a arquitecturas modernas con buenas prácticas.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## `// ARCHIVOS DE MISIÓN`
+## `// ARCHIVOS DE MISIÓN` <img src="https://img.shields.io/badge/PROYECTOS-FFB703?style=flat-square" />
 
 | Proyecto | Estado | Descripción | Stack |
 | :--- | :--- | :--- | :--- |
-| [Punto-Venta](https://github.com/OliverAven01/Punto-Venta) | PÚBLICO | POS con gestión de inventario, ventas y reportes | JavaScript · Node.js · MySQL |
-| [LectorNfcLUKA](https://github.com/OliverAven01/LectorNfcLUKA) | PÚBLICO | Lector NFC para control de acceso y registro de datos | Python · NFC |
-| [Luka-Frontend](https://github.com/OliverAven01/Luka-Frontend) | PÚBLICO | Frontend con componentes modulares y consumo de APIs | TypeScript · React |
-| [movieapp01](https://github.com/OliverAven01/movieapp01) | PÚBLICO | App web de películas con APIs externas y diseño responsive | JavaScript · API REST |
-| BIOX | CLASIFICADO | E-commerce con MLM: 16 rangos, comisiones en SOLES, panel admin, JWT | Node.js · Express · React 18 · MySQL |
-| Aven | CLASIFICADO | App de autocuidado con IA: mentor por clan, feed social, XP y medallas | React 19 · Capacitor · Tailwind · SQLite |
-| SOS en SEÑAS | CLASIFICADO | Reconocimiento de lenguaje de señas con IA y alertas SOS | React · TypeScript · MediaPipe · Supabase |
+| [Punto-Venta](https://github.com/OliverAven01/Punto-Venta) | `PÚBLICO` | POS con gestión de inventario, ventas y reportes | JavaScript · Node.js · MySQL |
+| [LectorNfcLUKA](https://github.com/OliverAven01/LectorNfcLUKA) | `PÚBLICO` | Lector NFC para control de acceso y registro de datos | Python · NFC |
+| [Luka-Frontend](https://github.com/OliverAven01/Luka-Frontend) | `PÚBLICO` | Frontend con componentes modulares y consumo de APIs | TypeScript · React |
+| [movieapp01](https://github.com/OliverAven01/movieapp01) | `PÚBLICO` | App web de películas con APIs externas y diseño responsive | JavaScript · API REST |
+| BIOX | `CLASIFICADO` | E-commerce con MLM: 16 rangos, comisiones en SOLES, panel admin, JWT | Node.js · Express · React 18 · MySQL |
+| Aven | `CLASIFICADO` | App de autocuidado con IA: mentor por clan, feed social, XP y medallas | React 19 · Capacitor · Tailwind · SQLite |
+| SOS en SEÑAS | `CLASIFICADO` | Reconocimiento de lenguaje de señas con IA y alertas SOS | React · TypeScript · MediaPipe · Supabase |
 
 ---
 
-## `// SISTEMAS DE TECNOLOGÍA`
+## `// SISTEMAS DE TECNOLOGÍA` <img src="https://img.shields.io/badge/STACK-4ADE80?style=flat-square" />
 
 <div align="center">
   <table>
@@ -134,9 +143,22 @@ STATUS: OPERACIONAL · FULL-STACK · CLOUD · IA · Arequipa, Perú
   </table>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</div>
+
 ---
 
-## `// TRANSMISIÓN`
+## `// TRANSMISIÓN` <img src="https://img.shields.io/badge/CONTACTO-FFB703?style=flat-square" />
 
 <p align="center">
   Colaboraciones, proyectos e ideas son bienvenidos.
@@ -160,5 +182,12 @@ STATUS: OPERACIONAL · FULL-STACK · CLOUD · IA · Arequipa, Perú
 <br>
 
 <div align="center">
-  <code>STATUS: OPERATIVO</code> · <b>Arequipa, Perú</b>
+  <img src="https://img.shields.io/badge/STATUS-OPERATIVO-4ADE80?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/UBICACI%C3%93N-Arequipa%2C%20Per%C3%BA-22D3EE?style=flat-square&logo=googlemaps&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,30:4ADE80,70:22D3EE,100:0b1026&height=100&section=footer"/>
 </div>
