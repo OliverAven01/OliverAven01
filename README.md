@@ -1,47 +1,40 @@
 <div align="center">
 
-# OLIVER CHUCTAYA AVENDAÑO
+<!-- Place banner.svg at the repo root, next to this README and oliver.png -->
+<img src="./banner.svg" width="100%" alt="Oliver Chuctaya Avendaño — Software Engineer, Full-Stack · Cloud · AI" />
 
-### Software Engineer · Full-Stack · Cloud · AI
+<br>
 
 Building software solutions focused on **scalability, clean architecture and real-world impact.**
 
 <br>
 
 <a href="https://github.com/OliverAven01">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0A0E0C?style=flat-square&logo=github&logoColor=4ADE80" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/oliverchuctaya">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A0E0C?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
 </a>
 <a href="mailto:oliveraven05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-0A0E0C?style=flat-square&logo=gmail&logoColor=4ADE80" alt="Email"/>
 </a>
 <a href="https://oliveraven01.biox.com.pe/">
-  <img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0A0E0C?style=flat-square&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"/>
 </a>
 
 </div>
 
 ---
 
-## About
+## // OPERATOR PROFILE
 
-<table>
-<tr>
-<td width="25%" align="center" valign="middle">
+<div align="center">
 
-<img src="./oliver.png" width="180" alt="Oliver Chuctaya"/>
+<img src="./oliver.png" width="200" alt="Oliver Chuctaya"/>
 
-<br><br>
+</div>
 
-**OLIVER CHUCTAYA**
-
-Software Engineer
-
-</td>
-
-<td width="75%" valign="top">
+<br>
 
 Software engineer focused on **Full-Stack development, Cloud architecture, distributed systems and applied AI**.
 
@@ -49,49 +42,44 @@ I build software that solves real problems, from business management systems and
 
 My approach combines **clean code, scalable architecture, maintainability and practical product design**.
 
-### Focus
+**Focus**
 
 `Full-Stack Development` · `Cloud Architecture` · `Distributed Systems` · `Artificial Intelligence` · `Mobile Development` · `IoT`
 
-</td>
-</tr>
-</table>
+---
+
+## // TECHNOLOGY SYSTEMS
+
+| Module | Systems |
+| :--- | :--- |
+| **Frontend** | React · Angular · Next.js · TypeScript · JavaScript · HTML · CSS · Vite · Tailwind |
+| **Backend** | Node.js · Express · Django · Spring · Laravel · Python · Java |
+| **Databases** | MySQL · PostgreSQL · MongoDB · SQLite · Firebase |
+| **Cloud & DevOps** | AWS · GCP · Azure · Docker · Railway · Vercel |
+| **Mobile** | Capacitor · React · TypeScript |
+| **AI & Computer Vision** | Gemini · MediaPipe · Python |
+| **Tools** | Git · GitHub · GitLab · Linux · VS Code · Figma · Postman |
 
 ---
 
-## Core Expertise
-
-| Area                     | Technologies                                                                       |
-| :----------------------- | :--------------------------------------------------------------------------------- |
-| **Frontend**             | React · Angular · Next.js · TypeScript · JavaScript · HTML · CSS · Vite · Tailwind |
-| **Backend**              | Node.js · Express · Django · Spring · Laravel · Python · Java                      |
-| **Databases**            | MySQL · PostgreSQL · MongoDB · SQLite · Firebase                                   |
-| **Cloud & DevOps**       | AWS · GCP · Azure · Docker · Railway · Vercel                                      |
-| **Mobile**               | Capacitor · React · TypeScript                                                     |
-| **AI & Computer Vision** | Gemini · MediaPipe · Python                                                        |
-| **Tools**                | Git · GitHub · GitLab · Linux · VS Code · Figma · Postman                          |
-
----
-
-## Selected Projects
+## // MISSION FILES
 
 ### LUKA
 
-**NFC-based payment and rewards platform**
+`DOMAIN: FINTECH / NFC` · `ACCESS: PUBLIC`
 
-A digital platform focused on public transportation, combining NFC payments, user management and digital rewards.
+NFC-based payment and rewards platform combining contactless payments, user management and digital rewards, built for public transportation.
 
-**Technologies**
-
+**TECH_STACK**
 `React` `TypeScript` `Node.js` `Python` `NFC`
 
-[Repository →](https://github.com/OliverAven01/Luka-Frontend)
+[→ ACCESS REPOSITORY](https://github.com/OliverAven01/Luka-Frontend)
 
 ---
 
 ### BIOX
 
-**E-commerce & MLM platform**
+`DOMAIN: E-COMMERCE / MLM` · `ACCESS: CLASSIFIED`
 
 Business platform for product management, affiliates, commissions and administration.
 
@@ -103,17 +91,14 @@ Business platform for product management, affiliates, commissions and administra
 * MySQL database
 * Production deployment on Railway
 
-**Technologies**
-
+**TECH_STACK**
 `Node.js` `Express` `React 18` `Vite` `MySQL` `JWT`
-
-`PRIVATE PROJECT`
 
 ---
 
 ### AVEN
 
-**Mobile application for philosophy and self-care**
+`DOMAIN: MOBILE / AI` · `ACCESS: CLASSIFIED`
 
 Mobile application combining philosophy, social interaction and artificial intelligence.
 
@@ -125,19 +110,16 @@ Mobile application combining philosophy, social interaction and artificial intel
 * Personality quiz
 * Clan-based experience
 
-**Technologies**
-
+**TECH_STACK**
 `React 19` `Capacitor` `TypeScript` `Tailwind` `Framer Motion` `Node.js` `SQLite` `Gemini`
-
-`PRIVATE PROJECT`
 
 ---
 
 ### SOS EN SEÑAS
 
-**Real-time sign language recognition**
+`DOMAIN: ACCESSIBILITY / AI` · `ACCESS: CLASSIFIED`
 
-AI-powered application designed to recognize personalized signs and trigger emergency alerts.
+AI-powered application designed to recognize personalized signs and trigger emergency alerts in real time.
 
 * Real-time hand recognition
 * Custom sign database
@@ -146,57 +128,51 @@ AI-powered application designed to recognize personalized signs and trigger emer
 * Mobile application
 * Supabase integration
 
-**Technologies**
-
+**TECH_STACK**
 `React` `TypeScript` `Vite` `Tailwind` `shadcn/ui` `Capacitor` `MediaPipe Handpose` `Supabase`
-
-`PRIVATE PROJECT`
 
 ---
 
 ### PUNTO DE VENTA
 
-**Point of Sale & Inventory System**
+`DOMAIN: RETAIL SYSTEMS` · `ACCESS: PUBLIC`
 
 Management system focused on products, inventory, sales and reports.
 
-**Technologies**
-
+**TECH_STACK**
 `JavaScript` `Node.js` `MySQL`
 
-[Repository →](https://github.com/OliverAven01/Punto-Venta)
+[→ ACCESS REPOSITORY](https://github.com/OliverAven01/Punto-Venta)
 
 ---
 
 ### LECTOR NFC LUKA
 
-**NFC reader and data management**
+`DOMAIN: HARDWARE / NFC` · `ACCESS: PUBLIC`
 
 Python-based NFC reader designed for access control and data registration.
 
-**Technologies**
-
+**TECH_STACK**
 `Python` `NFC`
 
-[Repository →](https://github.com/OliverAven01/LectorNfcLUKA)
+[→ ACCESS REPOSITORY](https://github.com/OliverAven01/LectorNfcLUKA)
 
 ---
 
 ### MOVIE APP
 
-**Movie discovery web application**
+`DOMAIN: WEB / MEDIA` · `ACCESS: PUBLIC`
 
 Responsive web application consuming external APIs to display movie information.
 
-**Technologies**
-
+**TECH_STACK**
 `JavaScript` `API REST`
 
-[Repository →](https://github.com/OliverAven01/movieapp01)
+[→ ACCESS REPOSITORY](https://github.com/OliverAven01/movieapp01)
 
 ---
 
-## Experience
+## // SERVICE RECORD
 
 ### Freelance Development
 
@@ -224,36 +200,36 @@ Experience working on internal business solutions, including:
 
 ---
 
-## Engineering Principles
+## // OPERATING PROTOCOLS
 
 ```text
-Clean Code
+CLEAN CODE
     ↓
-Maintainable Architecture
+MAINTAINABLE ARCHITECTURE
     ↓
-Scalable Systems
+SCALABLE SYSTEMS
     ↓
-Reliable Software
+RELIABLE SOFTWARE
     ↓
-Real-World Impact
+REAL-WORLD IMPACT
 ```
 
 I focus on building software that is not only functional, but also **maintainable, scalable and understandable**.
 
 ---
 
-## GitHub
+## // SYSTEM ANALYTICS
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="48%" alt="GitHub Statistics"/>
-<img src="./profile/top-langs.svg" width="42%" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OliverAven01&show_icons=true&bg_color=0A0E0C&title_color=4ADE80&text_color=E8F5EC&icon_color=22D3EE&border_color=24322A" width="48%" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverAven01&bg_color=0A0E0C&title_color=4ADE80&text_color=E8F5EC&icon_color=22D3EE&border_color=24322A" width="42%" alt="Most Used Languages"/>
 
 </div>
 
 ---
 
-## Connect
+## // TRANSMISSION
 
 <div align="center">
 
@@ -262,17 +238,17 @@ I'm open to **new projects, collaborations and professional opportunities.**
 <br>
 
 <a href="https://www.linkedin.com/in/oliverchuctaya">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A0E0C?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
 </a>
 <a href="mailto:oliveraven05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-0A0E0C?style=for-the-badge&logo=gmail&logoColor=4ADE80" alt="Email"/>
 </a>
 <a href="https://oliveraven01.biox.com.pe/">
-  <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0A0E0C?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"/>
 </a>
 
 <br><br>
 
-**Arequipa, Peru 🇵🇪**
+`STATUS: OPERATIONAL` · **Arequipa, Peru 🇵🇪**
 
 </div>
