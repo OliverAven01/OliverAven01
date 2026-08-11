@@ -63,16 +63,7 @@ STATUS: OPERACIONAL · FULL-STACK · CLOUD · IA · Arequipa, Perú
 
 ---
 
-## `// ANALÍTICA DEL SISTEMA`
-
-<div align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=OliverAven01&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" alt="Trofeos GitHub" />
-</div>
-
-<div align="center">
-  <img src="./profile/stats.svg" width="48%" alt="Estadísticas GitHub" />
-  <img src="./profile/top-langs.svg" width="38%" alt="Lenguajes más usados" />
-</div>
+## `// ACTIVIDAD`
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OliverAven01&theme=dark&hide_border=true&background=0B1026&ring=4ADE80&fire=FFB703&currStreakLabel=4ADE80&sideLabels=8B949E&sideNums=c9d1d9" alt="Racha de contribuciones" />
