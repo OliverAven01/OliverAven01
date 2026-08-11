@@ -84,14 +84,14 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OliverAven01&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" alt="Trofeos GitHub" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=OliverAven01&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" alt="Trofeos GitHub" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OliverAven01&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0b1026&title_color=8AC926&icon_color=00C2D1&text_color=c9d1d9&ring_color=8AC926" width="48%" alt="Estadísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverAven01&layout=donut&langs_count=8&theme=dark&hide_border=true&bg_color=0b1026&title_color=8AC926&text_color=c9d1d9" width="38%" alt="Lenguajes más usados" />
+  <img src="./profile/stats.svg" width="48%" alt="Estadísticas GitHub" />
+  <img src="./profile/top-langs.svg" width="38%" alt="Lenguajes más usados" />
 </div>
 
 <br>
@@ -104,6 +104,12 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Actividad+de+Contribuciones&theme=github-dark&hide_border=true&area=true&color=8AC926&line=8AC926&point=FFFFFF&bg_color=0b1026" width="98%" alt="Gráfico de actividad" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/github-snake-dark.svg" alt="Serpiente de contribuciones" />
 </div>
 
 <br>
