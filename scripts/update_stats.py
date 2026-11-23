@@ -1,4 +1,4 @@
-"""Generate light profile cards from public GitHub data, using only the stdlib."""
+"""Generate gold-lit profile cards from public GitHub data, using only the stdlib."""
 
 import argparse
 from collections import Counter
@@ -10,12 +10,85 @@ import os
 from pathlib import Path
 import re
 import time
+import xml.etree.ElementTree as ET
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 USER = 'OliverAven01'
 FONT = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
 INK, MUTED, BLUE = '#1D263B', '#637089', '#0071E3'
+
+
+def gold_theme(source):
+    """Apply warm typography, dark surfaces and ambient golden light to a card."""
+    namespace = 'http://www.w3.org/2000/svg'
+    ET.register_namespace('', namespace)
+    tag = lambda name: f'{{{namespace}}}{name}'
+    root = ET.fromstring(source)
+    def polish_lighting():
+        halo = root.find(f'.//{tag("radialGradient")}[@id="halo"]')
+        if halo is not None:
+            stops = list(halo)
+            stops[0].set('stop-opacity', '0.8')
+            stops[-1].set('stop-opacity', '0')
+        definitions = root.find(tag('defs'))
+        if definitions is not None and definitions.find(f'{tag("filter")}[@id="gold-bloom"]') is None:
+            bloom = ET.SubElement(definitions, tag('filter'), {'id': 'gold-bloom', 'x': '-50%', 'y': '-50%', 'width': '200%', 'height': '200%', 'color-interpolation-filters': 'sRGB'})
+            ET.SubElement(bloom, tag('feGaussianBlur'), {'stdDeviation': '3', 'result': 'bloom'})
+            merge = ET.SubElement(bloom, tag('feMerge'))
+            ET.SubElement(merge, tag('feMergeNode'), {'in': 'bloom'})
+            ET.SubElement(merge, tag('feMergeNode'), {'in': 'SourceGraphic'})
+        for element in root.iter(tag('path')):
+            if element.get('d', '').startswith('M-39 -13'):
+                element.set('filter', 'url(#gold-bloom)')
+        return ET.tostring(root, encoding='unicode') + '\n'
+    if root.find(f'.//{tag("radialGradient")}[@id="gold-ambient"]') is not None:
+        return polish_lighting()
+    palette = {
+        '#FFFFFF': '#1B1711', '#1D1D1F': '#F6EEDC', '#1D263B': '#F6EEDC',
+        '#6E6E73': '#BCAF96', '#637089': '#BCAF96', '#0071E3': '#F4CF83',
+        '#0063BC': '#F1C873', '#007D72': '#EAC279', '#007E68': '#EAC279',
+        '#008577': '#EAC279', '#00A58C': '#A6782F', '#075EBF': '#FFE1A0',
+        '#087EF0': '#F9D98A', '#3188EF': '#D6A349', '#577BF4': '#DDA844',
+        '#596FDB': '#DCAE57', '#68DCC5': '#EED59A', '#70B4FF': '#986B28',
+        '#74BAFF': '#F6CF79', '#7551BC': '#E6BC6B', '#7556CF': '#F9D17C',
+        '#763DD0': '#75420F', '#8863D5': '#D6A34A', '#9657CE': '#E7BC65',
+        '#97A6BF': '#BDA47B', '#A85C26': '#D8AB60', '#AC58C5': '#BA8333',
+        '#B1C2ED': '#D6B876', '#B6D9FF': '#5E421E', '#BADEFF': '#FFF0BE',
+        '#BFA8FF': '#E8BC65', '#CC6B22': '#FFE1A0', '#D7E9FF': '#65451B',
+        '#D7EEE8': '#4D3C23', '#DBE9FA': '#4D3C23', '#E1E4ED': '#544127',
+        '#E29A32': '#FFEDBC', '#E2EBF7': '#282116', '#E4ECFF': '#392B19',
+        '#E5E1F0': '#33291B', '#E5F6F1': '#11110E', '#E77493': '#785128',
+        '#E9EDF5': '#342B1E', '#EAF2FF': '#12100D', '#ECFAF7': '#11110E',
+        '#F0F7FF': '#12100D', '#F1ECFF': '#14100D', '#F2B47D': '#DCAE57',
+        '#F3F8FF': '#12100D', '#F4F1FF': '#14100D', '#F8FAFE': '#15120E',
+        '#FFF1E7': '#15100B',
+    }
+    for element in root.iter():
+        for key, value in list(element.attrib.items()):
+            element.set(key, re.sub(r'#[0-9a-fA-F]{6}', lambda m: palette.get(m[0].upper(), m[0]), value))
+    width, height = map(float, (root.get('width'), root.get('height')))
+    definitions = root.find(tag('defs'))
+    if definitions is None:
+        definitions = ET.Element(tag('defs'))
+        root.insert(1, definitions)
+    glow = ET.SubElement(definitions, tag('radialGradient'), {'id': 'gold-ambient', 'cx': '0.74', 'cy': '0', 'r': '0.9'})
+    for offset, opacity in [('0', '0.26'), ('0.42', '0.10'), ('1', '0')]:
+        ET.SubElement(glow, tag('stop'), {'offset': offset, 'stop-color': '#EFB84F', 'stop-opacity': opacity})
+    edge = ET.SubElement(definitions, tag('linearGradient'), {'id': 'gold-rim', 'x1': '0', 'y1': '0', 'x2': '1', 'y2': '0'})
+    for offset, opacity in [('0', '0'), ('0.5', '0.8'), ('1', '0')]:
+        ET.SubElement(edge, tag('stop'), {'offset': offset, 'stop-color': '#FFE6AC', 'stop-opacity': opacity})
+    for parent in root.iter():
+        for index, element in enumerate(list(parent)):
+            if (element.tag == tag('rect') and element.get('fill') not in (None, 'none')
+                    and float(element.get('width', 0)) == width and float(element.get('height', 0)) == height):
+                element.set('fill', '#0E0D0B')
+                radius = element.get('rx', '24')
+                parent.insert(index + 1, ET.Element(tag('rect'), {'width': str(width), 'height': str(height), 'rx': radius, 'fill': 'url(#gold-ambient)'}))
+                parent.insert(index + 2, ET.Element(tag('rect'), {'x': '1', 'y': '1', 'width': str(width - 2), 'height': str(height - 2), 'rx': radius, 'fill': 'none', 'stroke': '#C89C4B', 'stroke-opacity': '0.22'}))
+                parent.insert(index + 3, ET.Element(tag('path'), {'d': f'M{float(radius)} 1H{width - float(radius)}', 'stroke': 'url(#gold-rim)', 'stroke-width': '1.5'}))
+                return polish_lighting()
+    raise ValueError('Card has no full-size background')
 
 
 class CalendarParser(HTMLParser):
@@ -123,11 +196,11 @@ def rect(x, y, w, h, fill, radius=14, attrs=''):
 
 
 def svg(width, height, title, body):
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" role="img" aria-labelledby="title">
+    return gold_theme(f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" role="img" aria-labelledby="title">
 <title id="title">{escape(title)}</title>
 <g font-family="{FONT}">{body}</g>
 </svg>
-'''
+''')
 
 
 def generate(profile, repos, days):

@@ -57,7 +57,7 @@ Repositorios, lenguajes y constancia. Una mirada a mi trabajo en GitHub.
 
 <p align="center">
   <a href="https://github.com/OliverAven01?tab=overview">
-    <img src="./assets/stats-calendar.svg" width="100%" alt="Calendario de contribuciones visibles durante los últimos 12 meses, con actividad diaria en tonos azules." />
+    <img src="./assets/stats-calendar.svg" width="100%" alt="Calendario de contribuciones visibles durante los últimos 12 meses, con actividad diaria en tonos dorados." />
   </a>
 </p>
 
