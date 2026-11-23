@@ -1,193 +1,254 @@
-<div align="center">
-  <img src="./portada.png" alt="Oliver Chuctaya Avendaño" width="55%" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <img src="./assets/hero.svg" width="100%" alt="Oliver Chuctaya Avendaño. Menos fricción. Más posibilidades. Ingeniero de software · Arequipa, Perú." />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://oliveraven01.biox.com.pe/">Portafolio ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/oliverchuctaya">LinkedIn ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:oliveraven05@gmail.com">Conversemos ↗</a>
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=4ADE80&center=true&vCenter=true&multiline=false&width=650&height=40&lines=Software+Engineer;Cloud+Native+Architecture;Full-Stack+Development;Distributed+Systems;AI+Applied+Solutions" alt="Typing SVG" />
-</div>
+<p align="center">
+  <strong>Hola, soy Oliver. Construyo el producto y lo que lo hace funcionar.</strong><br>
+  Interfaces web, experiencias móviles, APIs y servicios en la nube.<br>
+  Desde Arequipa, Perú, con atención a la experiencia y a la ingeniería detrás de ella.
+</p>
 
 <br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/oliverchuctaya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/OliverAven01" target="_blank"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://wa.me/51963072856" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:oliveraven05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://oliveraven01.biox.com.pe/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-FFB703?style=for-the-badge&logo=aboutdotme&logoColor=0b1026" /></a>
-</div>
+<p align="center">
+  <a href="#sobre-mí">Sobre mí</a> &nbsp;·&nbsp;
+  <a href="#proyectos-destacados">Proyectos</a> &nbsp;·&nbsp;
+  <a href="#tecnologías">Tecnologías</a> &nbsp;·&nbsp;
+  <a href="#experiencia">Experiencia</a> &nbsp;·&nbsp;
+  <a href="#contacto">Contacto</a>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OliverAven01&label=VISITAS&color=4ADE80&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/OliverAven01?label=SEGUIDORES&style=flat-square&color=4ADE80" />
-  <img src="https://img.shields.io/github/stars/OliverAven01?label=ESTRELLAS&style=flat-square&color=4ADE80" />
-</div>
+<br>
 
----
+## Sobre mí
 
-## `// SOBRE MÍ` <img src="https://img.shields.io/badge/HUMAN-4ADE80?style=flat-square" />
+Me interesa todo lo que ocurre entre una buena idea y un producto que alguien puede usar. He trabajado en proyectos freelance y entornos corporativos, desde la toma de requisitos hasta el despliegue, combinando desarrollo full-stack, arquitectura cloud-native y sistemas distribuidos.
+
+Mi foco está en escribir código legible, construir interfaces intuitivas y diseñar soluciones que respondan a problemas reales. Trabajo principalmente con **React, TypeScript, Node.js, AWS y Docker**, e integro inteligencia artificial cuando aporta valor a la experiencia.
+
+<br>
 
 <table>
   <tr>
-    <td width="25%" valign="top" align="center">
-      <img src="./oliver.png" width="160" style="border-radius: 10px; border: 2px solid #4ADE80;" alt="Oliver Chuctaya" />
-      <br><br>
-      <b>Oliver Chuctaya</b><br>
-      <sub>Arequipa, Perú</sub><br><br>
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="28" />
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="28" />
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="28" />
+    <td width="33%" valign="top">
+      <sub>01 / EXPERIENCIA</sub>
+      <h3>Simple al usar.</h3>
+      <p>Interfaces claras, componentes reutilizables y atención a cómo se siente cada interacción.</p>
     </td>
-    <td width="75%" valign="top">
-      <p>
-        Ingeniero de software peruano con experiencia en desarrollo full-stack, arquitectura cloud-native y sistemas distribuidos. He trabajado en proyectos freelance y en entornos corporativos, construyendo aplicaciones web, sistemas de gestión, apps móviles y soluciones con inteligencia artificial.
-      </p>
-      <p>
-        Me enfoco en escribir código limpio, diseñar arquitecturas escalables y entregar software que resuelva problemas reales. Trabajo con <code>React</code>, <code>Node.js</code>, <code>TypeScript</code>, <code>AWS</code> y <code>Docker</code>, abierto a nuevos proyectos y colaboraciones.
-      </p>
+    <td width="33%" valign="top">
+      <sub>02 / ARQUITECTURA</sub>
+      <h3>Sólido por dentro.</h3>
+      <p>APIs, datos y servicios conectados con una estructura mantenible y preparada para evolucionar.</p>
+    </td>
+    <td width="33%" valign="top">
+      <sub>03 / PROPÓSITO</sub>
+      <h3>Útil desde la idea.</h3>
+      <p>Tecnología aplicada a necesidades concretas: gestión, comercio, autocuidado y accesibilidad.</p>
     </td>
   </tr>
 </table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=aws" width="40" /><br><b>Cloud</b><br><sub>AWS · Docker</sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=react" width="40" /><br><b>Full-Stack</b><br><sub>React · Node · TS</sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br><b>Distribuidos</b><br><sub>APIs · Escalabilidad</sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=github" width="40" /><br><b>Buenas Prácticas</b><br><sub>Clean Code · CI/CD</sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=python" width="40" /><br><b>IA Aplicada</b><br><sub>Gemini · MediaPipe</sub></td>
-  </tr>
-</table>
-
-```text
-STATUS: OPERACIONAL · FULL-STACK · CLOUD · IA · Arequipa, Perú
-```
-
----
-
-## `// ACTIVIDAD` <img src="https://img.shields.io/badge/LIVE-FFB703?style=flat-square" />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=OliverAven01&theme=dark&hide_border=true&background=0B1026&ring=4ADE80&fire=FFB703&currStreakLabel=4ADE80&sideLabels=8B949E&sideNums=c9d1d9" alt="Racha de contribuciones" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&custom_title=Actividad+de+Contribuciones&theme=github-dark&hide_border=true&area=true&color=4ADE80&line=4ADE80&point=FFFFFF&bg_color=0b1026" width="98%" alt="Gráfico de actividad" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OliverAven01/OliverAven01/output/github-snake-dark.svg" alt="Serpiente de contribuciones" />
-</div>
-
----
-
-## `// REGISTRO DE SERVICIO` <img src="https://img.shields.io/badge/EXPERIENCIA-22D3EE?style=flat-square" />
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="36" /><br>
-      <h3>Freelance</h3>
-      <sub>Sistemas de gestión, plataformas web, integraciones y prototipos. De la toma de requisitos al despliegue final.</sub>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="36" /><br>
-      <h3>Empresa</h3>
-      <sub>Aplicaciones a medida, mantenimiento de sistemas legacy y migración a arquitecturas modernas con buenas prácticas.</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## `// ARCHIVOS DE MISIÓN` <img src="https://img.shields.io/badge/PROYECTOS-FFB703?style=flat-square" />
-
-| Proyecto | Estado | Descripción | Stack |
-| :--- | :--- | :--- | :--- |
-| [Punto-Venta](https://github.com/OliverAven01/Punto-Venta) | `PÚBLICO` | POS con gestión de inventario, ventas y reportes | JavaScript · Node.js · MySQL |
-| [LectorNfcLUKA](https://github.com/OliverAven01/LectorNfcLUKA) | `PÚBLICO` | Lector NFC para control de acceso y registro de datos | Python · NFC |
-| [Luka-Frontend](https://github.com/OliverAven01/Luka-Frontend) | `PÚBLICO` | Frontend con componentes modulares y consumo de APIs | TypeScript · React |
-| [movieapp01](https://github.com/OliverAven01/movieapp01) | `PÚBLICO` | App web de películas con APIs externas y diseño responsive | JavaScript · API REST |
-| BIOX | `CLASIFICADO` | E-commerce con MLM: 16 rangos, comisiones en SOLES, panel admin, JWT | Node.js · Express · React 18 · MySQL |
-| Aven | `CLASIFICADO` | App de autocuidado con IA: mentor por clan, feed social, XP y medallas | React 19 · Capacitor · Tailwind · SQLite |
-| SOS en SEÑAS | `CLASIFICADO` | Reconocimiento de lenguaje de señas con IA y alertas SOS | React · TypeScript · MediaPipe · Supabase |
-
----
-
-## `// SISTEMAS DE TECNOLOGÍA` <img src="https://img.shields.io/badge/STACK-4ADE80?style=flat-square" />
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Frontend</b></td>
-      <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Datos & Nube</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,js,ts&theme=dark" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,laravel,python,java&theme=dark" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,gcp,azure,docker&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center">
-        <img src="https://skillicons.dev/icons?i=github,gitlab,linux,vscode,figma,vercel&theme=dark" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</div>
+## Proyectos destacados
+
+### La tecnología cobra sentido cuando resuelve algo.
+
+Comercio, autocuidado, accesibilidad y operaciones. Cuatro formas de conectar una necesidad real con una solución de software.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/project-biox-dark.svg" />
+        <img src="./assets/project-biox.svg" width="100%" alt="BIOX — Comercio conectado. Ilustración de una red de gestión." />
+      </picture>
+      <br><br>
+      <sub>COMERCIO / PROYECTO PRIVADO</sub>
+      <h3>Un negocio. Múltiples conexiones.</h3>
+      <p>E-commerce que reúne un modelo multinivel, cálculo de comisiones en soles y gestión desde un panel de administración.</p>
+      <p><strong>En foco:</strong> 16 rangos e integración de autenticación mediante JWT.</p>
+      <p><sub>Node.js · Express · React 18 · MySQL</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/project-aven-dark.svg" />
+        <img src="./assets/project-aven.svg" width="100%" alt="Aven — Espacio para cuidarte. Ilustración de círculos alrededor de un corazón." />
+      </picture>
+      <br><br>
+      <sub>BIENESTAR / PROYECTO PRIVADO</sub>
+      <h3>El autocuidado también se construye.</h3>
+      <p>Aplicación que conecta inteligencia artificial, un mentor por clan y un feed social en una experiencia de autocuidado.</p>
+      <p><strong>En foco:</strong> participación y progreso mediante puntos de experiencia y medallas.</p>
+      <p><sub>React 19 · Capacitor · Tailwind CSS · SQLite</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/project-sos-dark.svg" />
+        <img src="./assets/project-sos.svg" width="100%" alt="SOS en SEÑAS — Una señal que conecta. Ilustración de una mano con puntos de reconocimiento." />
+      </picture>
+      <br><br>
+      <sub>ACCESIBILIDAD / PROYECTO PRIVADO</sub>
+      <h3>Reconocer para conectar.</h3>
+      <p>Reconocimiento de lenguaje de señas con inteligencia artificial, integrando visión por computadora con una interfaz web.</p>
+      <p><strong>En foco:</strong> interpretación de señas y activación de alertas SOS.</p>
+      <p><sub>React · TypeScript · MediaPipe · Supabase</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/project-pos-dark.svg" />
+        <img src="./assets/project-pos.svg" width="100%" alt="Punto-Venta — Cada operación, en orden. Ilustración de un comprobante de venta." />
+      </picture>
+      <br><br>
+      <sub>GESTIÓN / REPOSITORIO PÚBLICO</sub>
+      <h3>Una visión más clara del negocio.</h3>
+      <p>Sistema de punto de venta que conecta la gestión del inventario con el registro de ventas y la consulta de reportes.</p>
+      <p><strong>En foco:</strong> reunir las operaciones habituales en una misma herramienta.</p>
+      <p><sub>JavaScript · Node.js · MySQL</sub></p>
+      <p><a href="https://github.com/OliverAven01/Punto-Venta">Explorar repositorio ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### Más por explorar
+
+| Proyecto | Qué hace | Tecnologías |
+| :--- | :--- | :--- |
+| [LectorNfcLUKA ↗](https://github.com/OliverAven01/LectorNfcLUKA) | Lectura NFC para control de acceso y registro de datos. | Python · NFC |
+| [Luka-Frontend ↗](https://github.com/OliverAven01/Luka-Frontend) | Interfaz con componentes modulares e integración de APIs. | TypeScript · React |
+| [movieapp01 ↗](https://github.com/OliverAven01/movieapp01) | Aplicación web de películas con APIs externas y diseño adaptable. | JavaScript · API REST |
+
+<p><sub>Las ilustraciones representan el concepto de cada proyecto. Los repositorios privados se presentan de forma descriptiva.</sub></p>
+
+<br>
+
+## Tecnologías
+
+### Un stack completo. Decisiones con criterio.
+
+Mi base de trabajo es **TypeScript, React y Node.js**, con **AWS y Docker** para la infraestructura. El resto del stack responde al contexto de cada producto.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / LO QUE VES</sub>
+      <h3>Interfaces y experiencias.</h3>
+      <p>Componentes modulares, aplicaciones web y experiencias móviles.</p>
+      <p><strong>React · Next.js · Angular · TypeScript</strong><br><sub>JavaScript · HTML · CSS · Tailwind CSS · Capacitor</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / LO QUE LO CONECTA</sub>
+      <h3>Servicios y lógica de negocio.</h3>
+      <p>APIs, integraciones y sistemas que conectan cada parte del producto.</p>
+      <p><strong>Node.js · Express · Python · Java</strong><br><sub>Django · Spring · Laravel · API REST</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / LO QUE LO SOSTIENE</sub>
+      <h3>Datos e infraestructura.</h3>
+      <p>Persistencia, servicios en la nube y entrega de aplicaciones.</p>
+      <p><strong>AWS · Docker · MySQL · PostgreSQL</strong><br><sub>MongoDB · SQLite · Firebase · Supabase · Google Cloud · Azure · Vercel</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / LO QUE AMPLÍA SUS POSIBILIDADES</sub>
+      <h3>IA y herramientas.</h3>
+      <p>Inteligencia artificial aplicada, diseño y un flujo de desarrollo organizado.</p>
+      <p><strong>Gemini · MediaPipe · Git · Figma</strong><br><sub>GitHub · GitLab · CI/CD · Linux · VS Code</sub></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Experiencia
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>FREELANCE</sub>
+      <h3>De la conversación al despliegue.</h3>
+      <p>Sistemas de gestión, plataformas web, integraciones y prototipos. Participación en la definición de requisitos, implementación y entrega de soluciones adaptadas a cada proyecto.</p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>ENTORNOS CORPORATIVOS</sub>
+      <h3>Construir. Mantener. Evolucionar.</h3>
+      <p>Aplicaciones a medida, mantenimiento de sistemas existentes y migración hacia arquitecturas modernas, con foco en código limpio y buenas prácticas.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Cómo trabajo
+
+1. **Entender el problema.** Aclarar la necesidad, el contexto y lo que debe resolver el producto.
+2. **Diseñar lo esencial.** Definir una experiencia clara y una arquitectura acorde con el alcance.
+3. **Construir con criterio.** Desarrollar componentes, APIs e integraciones con código legible.
+4. **Afinar los detalles.** Revisar el comportamiento, pulir la experiencia y preparar la entrega.
+
+<br>
+
+<details>
+  <summary><strong>Actividad en GitHub</strong> · Un vistazo al trabajo continuo</summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/OliverAven01?tab=overview">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&amp;custom_title=Contribuciones&amp;bg_color=00000000&amp;color=86868b&amp;line=0071e3&amp;point=86868b&amp;area=true&amp;hide_border=true" width="100%" alt="Gráfico de contribuciones de OliverAven01 en GitHub, generado por un servicio externo" />
+    </a>
+  </p>
+  <p align="center"><sub>Si el gráfico no está disponible, puedes consultar la actividad directamente en <a href="https://github.com/OliverAven01">mi perfil de GitHub</a>.</sub></p>
+</details>
+
+<br>
 
 ---
 
-## `// TRANSMISIÓN` <img src="https://img.shields.io/badge/CONTACTO-FFB703?style=flat-square" />
+<br>
+
+## Contacto
 
 <p align="center">
-  Colaboraciones, proyectos e ideas son bienvenidos.
+  <a href="mailto:oliveraven05@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg" />
+      <img src="./assets/contact.svg" width="100%" alt="Construyamos algo que importe. Escríbeme para conversar sobre tu proyecto." />
+    </picture>
+  </a>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/oliverchuctaya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/51963072856" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:oliveraven05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://oliveraven01.biox.com.pe/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-FFB703?style=for-the-badge&logo=aboutdotme&logoColor=0b1026" />
-  </a>
-</div>
+<p align="center">
+  Abierto a proyectos y colaboraciones.<br>
+  Hablemos de lo que quieres construir.
+</p>
+
+<p align="center">
+  <a href="mailto:oliveraven05@gmail.com"><strong>Escríbeme ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://wa.me/51963072856">WhatsApp ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/oliverchuctaya">LinkedIn ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://oliveraven01.biox.com.pe/">Portafolio ↗</a>
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIVO-4ADE80?style=flat-square&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/UBICACI%C3%93N-Arequipa%2C%20Per%C3%BA-22D3EE?style=flat-square&logo=googlemaps&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,30:4ADE80,70:22D3EE,100:0b1026&height=100&section=footer"/>
-</div>
+<p align="center"><sub>Oliver Chuctaya Avendaño &nbsp;·&nbsp; Arequipa, Perú<br>Diseño con intención. Código con criterio.</sub></p>
