@@ -6,11 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://oliveraven01.biox.com.pe/">Portafolio ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/oliverchuctaya">LinkedIn ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:oliveraven05@gmail.com">Conversemos ↗</a>
+  <a href="https://wa.me/51963072856"><img src="./assets/buttons/whatsapp.svg" width="154" height="47" alt="Escríbeme por WhatsApp" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/oliverchuctaya"><img src="./assets/buttons/linkedin.svg" width="154" height="47" alt="Conecta conmigo en LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:oliveraven05@gmail.com"><img src="./assets/buttons/email.svg" width="154" height="47" alt="Envíame un correo" /></a>
+  &nbsp;
+  <a href="https://oliveraven01.biox.com.pe/"><img src="./assets/buttons/portfolio.svg" width="154" height="47" alt="Visita mi portafolio" /></a>
+  &nbsp;
+  <a href="https://github.com/OliverAven01"><img src="./assets/buttons/github.svg" width="154" height="47" alt="Explora mi perfil de GitHub" /></a>
 </p>
 
 <br>
@@ -245,13 +249,15 @@ Mi base de trabajo es **TypeScript, React y Node.js**, con **AWS y Docker** para
 </p>
 
 <p align="center">
-  <a href="mailto:oliveraven05@gmail.com"><strong>Escríbeme ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://wa.me/51963072856">WhatsApp ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/oliverchuctaya">LinkedIn ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://oliveraven01.biox.com.pe/">Portafolio ↗</a>
+  <a href="https://wa.me/51963072856"><img src="./assets/buttons/whatsapp.svg" width="154" height="47" alt="Escríbeme por WhatsApp" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/oliverchuctaya"><img src="./assets/buttons/linkedin.svg" width="154" height="47" alt="Conecta conmigo en LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:oliveraven05@gmail.com"><img src="./assets/buttons/email.svg" width="154" height="47" alt="Envíame un correo" /></a>
+  &nbsp;
+  <a href="https://oliveraven01.biox.com.pe/"><img src="./assets/buttons/portfolio.svg" width="154" height="47" alt="Visita mi portafolio" /></a>
+  &nbsp;
+  <a href="https://github.com/OliverAven01"><img src="./assets/buttons/github.svg" width="154" height="47" alt="Explora mi perfil de GitHub" /></a>
 </p>
 
 <br>
