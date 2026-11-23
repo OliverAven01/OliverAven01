@@ -1,7 +1,9 @@
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="./assets/hero-mobile-dark.svg" />
+    <source media="(max-width: 640px)" srcset="./assets/hero-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <img src="./assets/hero.svg" width="100%" alt="Oliver Chuctaya Avendaño. Menos fricción. Más posibilidades. Ingeniero de software · Arequipa, Perú." />
+    <img src="./assets/hero.svg" width="100%" alt="Oliver Chuctaya Avendaño. Ideas que se sienten. Código que responde. Ingeniero de software · Arequipa, Perú." />
   </picture>
 </p>
 
@@ -74,7 +76,7 @@ Comercio, autocuidado, accesibilidad y operaciones. Cuatro formas de conectar un
     <td width="50%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/project-biox-dark.svg" />
-        <img src="./assets/project-biox.svg" width="100%" alt="BIOX — Comercio conectado. Ilustración de una red de gestión." />
+        <img src="./assets/project-biox.svg" width="100%" alt="BIOX — Comercio conectado. Composición conceptual de un panel con rangos, comisiones y red de distribución." />
       </picture>
       <br><br>
       <sub>COMERCIO / PROYECTO PRIVADO</sub>
@@ -86,7 +88,7 @@ Comercio, autocuidado, accesibilidad y operaciones. Cuatro formas de conectar un
     <td width="50%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/project-aven-dark.svg" />
-        <img src="./assets/project-aven.svg" width="100%" alt="Aven — Espacio para cuidarte. Ilustración de círculos alrededor de un corazón." />
+        <img src="./assets/project-aven.svg" width="100%" alt="Aven — Espacio para cuidarte. Composición conceptual de una app móvil con mentor, comunidad y progreso." />
       </picture>
       <br><br>
       <sub>BIENESTAR / PROYECTO PRIVADO</sub>
@@ -100,7 +102,7 @@ Comercio, autocuidado, accesibilidad y operaciones. Cuatro formas de conectar un
     <td width="50%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/project-sos-dark.svg" />
-        <img src="./assets/project-sos.svg" width="100%" alt="SOS en SEÑAS — Una señal que conecta. Ilustración de una mano con puntos de reconocimiento." />
+        <img src="./assets/project-sos.svg" width="100%" alt="SOS en SEÑAS — Una señal que conecta. Composición conceptual del reconocimiento de una mano y el flujo de captura, reconocimiento y alerta." />
       </picture>
       <br><br>
       <sub>ACCESIBILIDAD / PROYECTO PRIVADO</sub>
@@ -112,7 +114,7 @@ Comercio, autocuidado, accesibilidad y operaciones. Cuatro formas de conectar un
     <td width="50%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/project-pos-dark.svg" />
-        <img src="./assets/project-pos.svg" width="100%" alt="Punto-Venta — Cada operación, en orden. Ilustración de un comprobante de venta." />
+        <img src="./assets/project-pos.svg" width="100%" alt="Punto-Venta — Cada operación, en orden. Composición conceptual de un panel de operaciones y un comprobante." />
       </picture>
       <br><br>
       <sub>GESTIÓN / REPOSITORIO PÚBLICO</sub>
@@ -135,7 +137,9 @@ Comercio, autocuidado, accesibilidad y operaciones. Cuatro formas de conectar un
 | [Luka-Frontend ↗](https://github.com/OliverAven01/Luka-Frontend) | Interfaz con componentes modulares e integración de APIs. | TypeScript · React |
 | [movieapp01 ↗](https://github.com/OliverAven01/movieapp01) | Aplicación web de películas con APIs externas y diseño adaptable. | JavaScript · API REST |
 
-<p><sub>Las ilustraciones representan el concepto de cada proyecto. Los repositorios privados se presentan de forma descriptiva.</sub></p>
+<p><a href="https://github.com/OliverAven01?tab=repositories">Ver todos los repositorios ↗</a></p>
+
+<p><sub>Las composiciones son estudios visuales del concepto de cada proyecto, no capturas de las aplicaciones. Los repositorios privados se presentan de forma descriptiva.</sub></p>
 
 <br>
 
@@ -145,36 +149,26 @@ Comercio, autocuidado, accesibilidad y operaciones. Cuatro formas de conectar un
 
 Mi base de trabajo es **TypeScript, React y Node.js**, con **AWS y Docker** para la infraestructura. El resto del stack responde al contexto de cada producto.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 / LO QUE VES</sub>
-      <h3>Interfaces y experiencias.</h3>
-      <p>Componentes modulares, aplicaciones web y experiencias móviles.</p>
-      <p><strong>React · Next.js · Angular · TypeScript</strong><br><sub>JavaScript · HTML · CSS · Tailwind CSS · Capacitor</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / LO QUE LO CONECTA</sub>
-      <h3>Servicios y lógica de negocio.</h3>
-      <p>APIs, integraciones y sistemas que conectan cada parte del producto.</p>
-      <p><strong>Node.js · Express · Python · Java</strong><br><sub>Django · Spring · Laravel · API REST</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 / LO QUE LO SOSTIENE</sub>
-      <h3>Datos e infraestructura.</h3>
-      <p>Persistencia, servicios en la nube y entrega de aplicaciones.</p>
-      <p><strong>AWS · Docker · MySQL · PostgreSQL</strong><br><sub>MongoDB · SQLite · Firebase · Supabase · Google Cloud · Azure · Vercel</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / LO QUE AMPLÍA SUS POSIBILIDADES</sub>
-      <h3>IA y herramientas.</h3>
-      <p>Inteligencia artificial aplicada, diseño y un flujo de desarrollo organizado.</p>
-      <p><strong>Gemini · MediaPipe · Git · Figma</strong><br><sub>GitHub · GitLab · CI/CD · Linux · VS Code</sub></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/system-dark.svg" />
+    <img src="./assets/system.svg" width="100%" alt="Cada capa tiene un propósito: experiencia con React y TypeScript; servicios con Node.js y APIs; datos con MySQL y PostgreSQL; infraestructura con AWS y Docker. IA aplicada según las necesidades del producto." />
+  </picture>
+</p>
+
+<details>
+<summary><strong>Explorar el stack completo</strong></summary>
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Interfaces y móvil** | React · Next.js · Angular · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · Capacitor |
+| **Backend y APIs** | Node.js · Express · Python · Java · Django · Spring · Laravel · API REST |
+| **Datos** | MySQL · PostgreSQL · MongoDB · SQLite · Firebase · Supabase |
+| **Infraestructura** | AWS · Docker · Google Cloud · Azure · Vercel |
+| **IA aplicada** | Gemini · MediaPipe |
+| **Diseño y desarrollo** | Figma · Git · GitHub · GitLab · CI/CD · Linux · VS Code |
+
+</details>
 
 <br>
 
