@@ -1,0 +1,38 @@
+name: Update profile statistics
+
+on:
+  schedule:
+    - cron: '17 12 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_stats.py
+      - tests/test_stats.py
+      - .github/workflows/profile-stats.yml
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check calendar parsing and streak calculations
+        run: python3 -m unittest discover -s tests -v
+      - name: Generate public GitHub statistics
+        run: python3 scripts/update_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit refreshed cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/stats-overview.svg assets/stats-languages.svg assets/stats-streak.svg assets/stats-calendar.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "docs: actualizar estadísticas públicas de GitHub"
+          git push

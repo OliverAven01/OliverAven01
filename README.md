@@ -1,8 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="./assets/hero-mobile-dark.svg" />
     <source media="(max-width: 640px)" srcset="./assets/hero-mobile.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
     <img src="./assets/hero.svg" width="100%" alt="Oliver Chuctaya Avendaño. Ideas que se sienten. Código que responde. Ingeniero de software · Arequipa, Perú." />
   </picture>
 </p>
@@ -26,12 +24,44 @@
 <br>
 
 <p align="center">
+  <a href="#github-en-cifras">Stats</a> &nbsp;·&nbsp;
   <a href="#sobre-mí">Sobre mí</a> &nbsp;·&nbsp;
   <a href="#proyectos-destacados">Proyectos</a> &nbsp;·&nbsp;
   <a href="#tecnologías">Tecnologías</a> &nbsp;·&nbsp;
   <a href="#experiencia">Experiencia</a> &nbsp;·&nbsp;
   <a href="#contacto">Contacto</a>
 </p>
+
+<br>
+
+## GitHub en cifras
+
+Repositorios, lenguajes y constancia. Una mirada a mi trabajo en GitHub.
+
+<p align="center">
+  <a href="https://github.com/OliverAven01?tab=repositories">
+    <img src="./assets/stats-overview.svg" width="100%" alt="Repositorios públicos, estrellas en repositorios propios, seguidores y contribuciones visibles de los últimos 12 meses. La fecha de actualización aparece en la tarjeta." />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/stats-languages.svg" width="100%" alt="Distribución de los repositorios propios según su lenguaje principal." />
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/stats-streak.svg" width="100%" alt="Racha actual, mejor racha y días con actividad en el calendario de los últimos 12 meses." />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/OliverAven01?tab=overview">
+    <img src="./assets/stats-calendar.svg" width="100%" alt="Calendario de contribuciones visibles durante los últimos 12 meses, con actividad diaria en tonos azules." />
+  </a>
+</p>
+
+<p align="center"><sub>Datos visibles de GitHub · Actualización diaria · Lenguajes por número de repositorios propios, sin forks.</sub></p>
 
 <br>
 
@@ -75,7 +105,6 @@ Comercio, autocuidado, accesibilidad y operaciones. Cuatro formas de conectar un
   <tr>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/project-biox-dark.svg" />
         <img src="./assets/project-biox.svg" width="100%" alt="BIOX — Comercio conectado. Composición conceptual de un panel con rangos, comisiones y red de distribución." />
       </picture>
       <br><br>
@@ -87,7 +116,6 @@ Comercio, autocuidado, accesibilidad y operaciones. Cuatro formas de conectar un
     </td>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/project-aven-dark.svg" />
         <img src="./assets/project-aven.svg" width="100%" alt="Aven — Espacio para cuidarte. Composición conceptual de una app móvil con mentor, comunidad y progreso." />
       </picture>
       <br><br>
@@ -101,7 +129,6 @@ Comercio, autocuidado, accesibilidad y operaciones. Cuatro formas de conectar un
   <tr>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/project-sos-dark.svg" />
         <img src="./assets/project-sos.svg" width="100%" alt="SOS en SEÑAS — Una señal que conecta. Composición conceptual del reconocimiento de una mano y el flujo de captura, reconocimiento y alerta." />
       </picture>
       <br><br>
@@ -113,7 +140,6 @@ Comercio, autocuidado, accesibilidad y operaciones. Cuatro formas de conectar un
     </td>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/project-pos-dark.svg" />
         <img src="./assets/project-pos.svg" width="100%" alt="Punto-Venta — Cada operación, en orden. Composición conceptual de un panel de operaciones y un comprobante." />
       </picture>
       <br><br>
@@ -151,7 +177,6 @@ Mi base de trabajo es **TypeScript, React y Node.js**, con **AWS y Docker** para
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/system-dark.svg" />
     <img src="./assets/system.svg" width="100%" alt="Cada capa tiene un propósito: experiencia con React y TypeScript; servicios con Node.js y APIs; datos con MySQL y PostgreSQL; infraestructura con AWS y Docker. IA aplicada según las necesidades del producto." />
   </picture>
 </p>
@@ -200,19 +225,6 @@ Mi base de trabajo es **TypeScript, React y Node.js**, con **AWS y Docker** para
 
 <br>
 
-<details>
-  <summary><strong>Actividad en GitHub</strong> · Un vistazo al trabajo continuo</summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/OliverAven01?tab=overview">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverAven01&amp;custom_title=Contribuciones&amp;bg_color=00000000&amp;color=86868b&amp;line=0071e3&amp;point=86868b&amp;area=true&amp;hide_border=true" width="100%" alt="Gráfico de contribuciones de OliverAven01 en GitHub, generado por un servicio externo" />
-    </a>
-  </p>
-  <p align="center"><sub>Si el gráfico no está disponible, puedes consultar la actividad directamente en <a href="https://github.com/OliverAven01">mi perfil de GitHub</a>.</sub></p>
-</details>
-
-<br>
-
 ---
 
 <br>
@@ -222,7 +234,6 @@ Mi base de trabajo es **TypeScript, React y Node.js**, con **AWS y Docker** para
 <p align="center">
   <a href="mailto:oliveraven05@gmail.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg" />
       <img src="./assets/contact.svg" width="100%" alt="Construyamos algo que importe. Escríbeme para conversar sobre tu proyecto." />
     </picture>
   </a>
